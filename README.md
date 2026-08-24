@@ -28,11 +28,11 @@ The initial screen presents a compact, comparable restaurant list. Users can:
 
 - Search by restaurant name or menu keyword.
 - Filter by Busan area and ramen style.
-- Sort by travel route relevance, enthusiast recommendation, or price.
+- Sort by enthusiast recommendation, area, or price.
 - Open a detail view with all signature menus, ramen characteristics, cautions,
   operating information, sources, and the date each item was verified.
 - Open Naver Map or Kakao Map in a new browser context.
-- Browse restaurants grouped by area as a lightweight route-planning view.
+- Browse a keyboard-accessible restaurant list alongside the map.
 
 The UI targets 360 px, 390 px, and 430 px mobile widths first, while keeping a
 readable constrained layout on desktop. It uses a quiet neutral base with one or
@@ -106,3 +106,49 @@ displays its location, signature menu and price, ramen style, distinguishing
 characteristics, cautions, sources, and verification date; search, filtering,
 sorting, details, and map links work; no placeholder facts are presented as
 real; and the responsive, accessibility, and external-link checks pass.
+
+## Map and scheduled updates
+
+Configure the following values in `.env`. Never expose `NAVER_MAP_CLIENT_SECRET`,
+`OPENAI_API_KEY`, or `UPDATE_ADMIN_TOKEN` through Vite variables or browser code.
+
+```text
+NAVER_MAP_CLIENT_ID=
+NAVER_MAP_CLIENT_SECRET=
+OPENAI_API_KEY=
+OPENAI_MODEL=gpt-5
+UPDATE_ADMIN_TOKEN=
+OPENAI_UPDATE_ENABLED=true
+PORT=8787
+```
+
+Run `npm run server` alongside `npm run dev` during development. The Vite server
+proxies `/api` requests to port 8787. For production, run `npm run build` and
+then `npm run server`; Express serves `dist` and the private API routes.
+
+In the Naver Cloud Maps application, enable **Web Dynamic Map**, **Geocoding**,
+and **Directions 5**, then register each browser origin exactly, including
+`http://127.0.0.1:5174`, `http://localhost:5174`, and the production origin.
+Use the Maps application credentials, not a Naver Search API credential. A map
+SDK authorization error indicates an unregistered origin or incorrect client ID;
+a 401 from `/api/geocode` or `/api/directions/driving` indicates that the REST
+service is not enabled for the client ID/secret pair. The UI falls back to the
+Maps SDK geocoder when the REST Geocoding service is unavailable.
+
+The map SDK receives only the Naver client ID. Geocoding and Directions 5 are
+called only by the Express server with the client secret. The driving planner
+supports up to five waypoints. Walking and transit actions open the Naver Maps
+directions service because those modes are not calculated by this application.
+
+The scheduled updater checks once per hour and runs only when the last successful
+draft is at least 72 hours old. It writes the proposed full dataset to
+`data/updates/pending-*.json` and never overwrites `data/restaurants.json`.
+A maintainer must validate and copy approved changes into the published file in
+a reviewed commit. The same job can be run manually with `npm run data:update`.
+The map and restaurant list display every record in `data/restaurants.json`.
+`verificationStatus` remains available so candidate records can still be
+distinguished and reviewed without removing them from the map.
+
+Run `npm run verify:release` before deployment. It executes lint, unit/integration
+tests, the production build, and Playwright regression checks at the supported
+viewports. See `RELEASE_CHECKLIST.md` for environment and deployment gates.

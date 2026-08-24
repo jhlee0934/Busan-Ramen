@@ -1,0 +1,2762 @@
+{
+  "collectedAt": "2026-08-24T18:22:44.721Z",
+  "range": {
+    "from": "2026-07-24T18:22:43.591Z",
+    "to": "2026-08-24T18:22:43.591Z"
+  },
+  "collectionWindowDays": 31,
+  "source": "https://gall.dcinside.com/mgallery/board/lists/?id=busanramen&search_head=10",
+  "scannedReviewPostCount": 356,
+  "fetchedReviewPostCount": 356,
+  "failedReviewPostCount": 0,
+  "processedPostIds": [
+    9743,
+    9736,
+    9735,
+    9734,
+    9730,
+    9729,
+    9728,
+    9727,
+    9719,
+    9712,
+    9709,
+    9704,
+    9703,
+    9702,
+    9700,
+    9698,
+    9696,
+    9695,
+    9679,
+    9676,
+    9675,
+    9673,
+    9672,
+    9671,
+    9670,
+    9669,
+    9668,
+    9667,
+    9665,
+    9662,
+    9661,
+    9660,
+    9658,
+    9657,
+    9653,
+    9652,
+    9649,
+    9647,
+    9646,
+    9635,
+    9631,
+    9627,
+    9626,
+    9625,
+    9624,
+    9616,
+    9611,
+    9610,
+    9608,
+    9588,
+    9585,
+    9584,
+    9582,
+    9581,
+    9580,
+    9576,
+    9574,
+    9572,
+    9570,
+    9569,
+    9568,
+    9567,
+    9561,
+    9557,
+    9556,
+    9555,
+    9554,
+    9553,
+    9552,
+    9549,
+    9543,
+    9533,
+    9528,
+    9525,
+    9524,
+    9523,
+    9521,
+    9520,
+    9507,
+    9504,
+    9501,
+    9492,
+    9490,
+    9484,
+    9481,
+    9480,
+    9479,
+    9476,
+    9473,
+    9471,
+    9470,
+    9469,
+    9463,
+    9462,
+    9461,
+    9455,
+    9454,
+    9450,
+    9449,
+    9447,
+    9443,
+    9439,
+    9438,
+    9428,
+    9427,
+    9425,
+    9424,
+    9422,
+    9420,
+    9418,
+    9416,
+    9415,
+    9405,
+    9401,
+    9397,
+    9395,
+    9394,
+    9392,
+    9391,
+    9388,
+    9385,
+    9382,
+    9381,
+    9378,
+    9375,
+    9374,
+    9372,
+    9368,
+    9359,
+    9358,
+    9335,
+    9330,
+    9329,
+    9327,
+    9326,
+    9325,
+    9319,
+    9318,
+    9317,
+    9316,
+    9315,
+    9309,
+    9308,
+    9305,
+    9302,
+    9295,
+    9292,
+    9287,
+    9286,
+    9284,
+    9283,
+    9281,
+    9280,
+    9278,
+    9276,
+    9274,
+    9272,
+    9268,
+    9263,
+    9253,
+    9252,
+    9250,
+    9249,
+    9248,
+    9246,
+    9245,
+    9243,
+    9239,
+    9233,
+    9232,
+    9225,
+    9221,
+    9216,
+    9212,
+    9210,
+    9204,
+    9202,
+    9186,
+    9185,
+    9177,
+    9176,
+    9173,
+    9167,
+    9151,
+    9150,
+    9148,
+    9145,
+    9144,
+    9143,
+    9137,
+    9134,
+    9133,
+    9127,
+    9117,
+    9105,
+    9102,
+    9098,
+    9097,
+    9096,
+    9095,
+    9089,
+    9088,
+    9087,
+    9085,
+    9084,
+    9082,
+    9068,
+    9067,
+    9060,
+    9059,
+    9044,
+    9043,
+    9042,
+    9039,
+    9037,
+    9035,
+    9034,
+    9033,
+    9026,
+    9023,
+    9022,
+    9021,
+    9020,
+    9014,
+    9013,
+    9012,
+    9010,
+    9007,
+    9006,
+    9005,
+    9004,
+    9003,
+    8993,
+    8991,
+    8988,
+    8987,
+    8986,
+    8985,
+    8984,
+    8983,
+    8980,
+    8979,
+    8976,
+    8975,
+    8973,
+    8972,
+    8961,
+    8956,
+    8952,
+    8947,
+    8946,
+    8944,
+    8943,
+    8942,
+    8940,
+    8937,
+    8935,
+    8934,
+    8933,
+    8929,
+    8928,
+    8924,
+    8923,
+    8918,
+    8913,
+    8912,
+    8907,
+    8905,
+    8899,
+    8896,
+    8895,
+    8885,
+    8881,
+    8878,
+    8877,
+    8868,
+    8866,
+    8863,
+    8862,
+    8861,
+    8859,
+    8856,
+    8850,
+    8849,
+    8838,
+    8834,
+    8832,
+    8829,
+    8820,
+    8815,
+    8809,
+    8808,
+    8807,
+    8806,
+    8805,
+    8804,
+    8803,
+    8799,
+    8798,
+    8795,
+    8793,
+    8792,
+    8790,
+    8788,
+    8787,
+    8782,
+    8781,
+    8780,
+    8778,
+    8776,
+    8775,
+    8774,
+    8773,
+    8772,
+    8768,
+    8761,
+    8757,
+    8753,
+    8750,
+    8747,
+    8746,
+    8737,
+    8731,
+    8730,
+    8728,
+    8724,
+    8723,
+    8715,
+    8714,
+    8709,
+    8708,
+    8707,
+    8706,
+    8704,
+    8700,
+    8698,
+    8697,
+    8696,
+    8692,
+    8686,
+    8684,
+    8683,
+    8681,
+    8680,
+    8678,
+    8675,
+    8674,
+    8673,
+    8671,
+    8670,
+    8669,
+    8668,
+    8666,
+    8664,
+    8662,
+    8657
+  ],
+  "reviews": [
+    {
+      "postId": 9743,
+      "title": "라린이 아부라클럽 창케 쇼유 후기",
+      "publishedAt": "2026-08-25",
+      "restaurantNames": [
+        "아부라클럽"
+      ],
+      "body": "창케 소유 1.1 월요일 저녁 7시 기준 자리 널널 주문부터 하고 자리 앉는 시스템 부산에서 라멘 맛있다는 곳은 유메 가봤는데 비교하자면 짠맛은 유메보다 훨씬 짠 느낌 유메 염추=아부라클럽 기본 차슈는 추가 안한건데도",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9743"
+    },
+    {
+      "postId": 9734,
+      "title": "사이멘 토리파이탄",
+      "publishedAt": "2026-08-24",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "일단 푸짐한 고명 좋았고 신기하게 튀김류의 비중이 높아서 실제로 매장에서도 텐동집에서나 맡아볼거같은 기름향이남눈에들어온건 브로콜리튀김인데 이걸 라멘집 고명으로 본건 처음이였음그리고 매시드포테이토가 올라가있는데 개인적으",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9734"
+    },
+    {
+      "postId": 9730,
+      "title": "테우치 메뉴 바뀌고 몇번 가본거",
+      "publishedAt": "2026-08-24",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "일단 15일날 갔을때 이에케이에케를 엄청 다양하게 먹어보진 않았지만닭기름 향이 마지막에 싹 퍼지는게 너무 매력적이라서이때까지 먹어본 이에케 중에 젤 취향이었음근데 이거 이후로 닭기름 없이 세아부라(아부라소바)로 대체하더니지금은 이",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9730"
+    },
+    {
+      "postId": 9729,
+      "title": "오늘자 부갱",
+      "publishedAt": "2026-08-24",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "감자라멘 먹었는데 ㄹㅇ개찐하고 맛있다ㅊㅊ - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9729"
+    },
+    {
+      "postId": 9719,
+      "title": "테우치 츄카소바,아부라 후기-",
+      "publishedAt": "2026-08-24",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "먹어본 츄카소바중에 젤 맛있긴한데 고점 저점 차이는 크게 안나는듯예전에 먹던것들보다 좀더 뒷맛이 깔끔한정도?먹어봤던 아부라(아부라소바)들과는 다르게 감칠맛과 짭짤한맛으로 승부나름 매력있었고 맛있게 잘먹음둘다 먹고싶어서 2라 때렸는",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9719"
+    },
+    {
+      "postId": 9712,
+      "title": "사이멘 토리파이탄, 가솔린 요코하마돈코츠",
+      "publishedAt": "2026-08-23",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "사이멘 토라파이탄+닭목살가라아게굵은면으로 주문했는데 그렇게 굵진 않았어요스프 매우 크리미함우엉튀김이랑 브로콜리튀김도 맛있고 감자샐러드? 같은것도 섞이니 더욱 크리미해짐파이탄 특성상 먹다보면 좀 물리는감이있는데토마토는",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9712"
+    },
+    {
+      "postId": 9709,
+      "title": "일요일 최고의 선택",
+      "publishedAt": "2026-08-23",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "가솔린 이에케 멘마 김 마늘추가 기름많이 이젠 염도추가 옵션이 없더랑 따로말씀드려야함 마늘추가는 밑에 내려보면 있는데 추가하길잘한듯 앞으로는 추가 해묵어야게따 오늘따라 야채도 좀많이받은듯 아주럭키햇늠 밥 리필도 한번",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9709"
+    },
+    {
+      "postId": 9704,
+      "title": "사카나 진한멸치, 진한도미",
+      "publishedAt": "2026-08-23",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "10년 전 즈음에 서면 nc 앞 라멘트럭에 돈코츠 먹어보고'와 되게 맛있다'라는 생각이 들었고, 시험 공부하면서 자주 사 먹었던 기억이 있슴그 이후로 서면 쪽이나 갈 일이 크게 없어서 따로 찾아서 사먹지는 않았슴몇 년",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9704"
+    },
+    {
+      "postId": 9703,
+      "title": "미친 신상 라멘야 등장 - 전포 사이멘",
+      "publishedAt": "2026-08-23",
+      "restaurantNames": [
+        "라멘유메",
+        "멘초비"
+      ],
+      "body": "토리쇼유라멘 달큰 짭짤 밸런스 기가막힌 쇼유라멘유메나 멘초비처럼 쨍한 맛은 아니고적당히 달큰하면서 부담스럽지 않고 감칠맛 좋은 스프좀 더 쇼유의 쨍한 맛을 느끼려면 염도추가 하면 좋을듯토치로 잘 그을려서 불향 잘 입혀",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9703"
+    },
+    {
+      "postId": 9702,
+      "title": "나피라 후기",
+      "publishedAt": "2026-08-23",
+      "restaurantNames": [
+        "나의피는라멘으로되어있어"
+      ],
+      "body": "전날 술자리에서 끝내주는 볶음밥을 먹고 왔는데 다음날 또 볶음밥이 땡기던 차에 나피라 볶음밥이 맛있다는 얘기가 생각나서 감 볶음밥은 없고 차슈밥 맛있음 마요네즈가 많아보이는데 다른 재료들도 자기주장이 강해서 잘 어우",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9702"
+    },
+    {
+      "postId": 9700,
+      "title": "가솔린 요코하마풍 후기",
+      "publishedAt": "2026-08-23",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "기름 많이 김추가돈코츠 쿰쿰은 없어도 감칠맛이랑 녹진하더라지인은 기름 추가 안햇는데 마일드한 느낌녹진한걸 좋아하면 기름 추가 추천!공깃밥 없어서 아쉬웟다 ㅜㅜ양도 많고 웨팅도 없고 시원하고 최근 한줄기의 빛 - dc",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9700"
+    },
+    {
+      "postId": 9696,
+      "title": "타카노 니보쇼 먹었다....",
+      "publishedAt": "2026-08-23",
+      "restaurantNames": [
+        "멘초비"
+      ],
+      "body": "개념글 보고 갔다 글 내용이 오버스러운 표현하길래 속는셈치고 반신반의로 가기로함원래 타카노에서 이에케 ,매에케만 먹었는데이벤트는 처음 가는거댓글에서도 멘초비보다 맛있다길래 궁금했다도대체 어느정도길래?!스프 첫입 떠먹어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9696"
+    },
+    {
+      "postId": 9676,
+      "title": "가솔린 이에케 먹으러 가야하는데",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "예전에 ㄹㅇ 자주갔던 달짝지근한 쇼유가 강한 가솔린 이에케지금은 산미가있다는데 어떨지 궁금하네갠적으로 원래도 식초 좀 뿌려먹어서 좋겠지서울에 일이있어서 홍대갔는데하쿠텐이랑 고민하다가멘야 츠바사에 츠바사 이에케라는게",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9676"
+    },
+    {
+      "postId": 9675,
+      "title": "사이쿄우 니쿠파이탄 먹어봄",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "사이쿄우"
+      ],
+      "body": "음식 먹을 때 사진 잘 안 찍음 ㅈㅅ볶은 야채, 마늘 후레이크, 고추 등등 올라감스프는 다른 글보면 통풍보다 되직하다고 하는데 그건 아녔음결론적으로 맛은 내 개인적으로 너무 별로였음타래야 더 요청할 수 있는거라지만 기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9675"
+    },
+    {
+      "postId": 9673,
+      "title": "가솔린 이에케 같은거",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "가솔린앤로지스",
+        "테우치멘이토"
+      ],
+      "body": "김추가 + 마늘추가 + 기름추가 + 공기밥 + 제로콜라해서 14,000이에케 맛 좋은데? 좀 달달하긴한데 그래도 괜찮은듯가게 쾌적하고 웨이팅따위 없는게 그냥 너무좋다원래 테우치갔는데 요즘 한시간 기본이라 가솔린 자주갈",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9673"
+    },
+    {
+      "postId": 9672,
+      "title": "사카나 교카이 쇼유 파이탄",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "인스타에 써있던 모든 재료들의 향이 스치고 지나가는신기한 라멘이었음보통 다 섞이면 뭐가 뭔지 모르겠는 경우도 있는데항상 느끼지만 사장님 내공이 상당하다 진짜라멘 먹으면서 사케가 땡기는건 여기뿐일듯...술이랑 먹고싶다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9672"
+    },
+    {
+      "postId": 9671,
+      "title": "와루가키 참나물 블랙",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "나물향 거의 안나고 간도 오늘 쫌 이상.. 염도만 있고 밍밍하다랄까 오늘 영 아니네요 아쉽- dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9671"
+    },
+    {
+      "postId": 9669,
+      "title": "와루가키 이소네바리, 사카나 교카이파이탄",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "사카나라멘",
+        "와루가키노아소비"
+      ],
+      "body": "이소 네바리소바 (10,000원)추가토핑없는 순정인데챠슈양이 거의 6천원치 되는것같습니다숯불향 입힌 아주맛있는 바베큐느낌미역, 다시마가 들어있고스프는 다시육수 느낌에 부들부들한 면발이었어요설명엔 점성이 꽤 있다고 되어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9669"
+    },
+    {
+      "postId": 9668,
+      "title": "사카나-교카이쇼유파이탄",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "모든게 완벽하다 왜 첫입에 마늘 섞지말라는지 알겠음 첫입에 복합적인 생선감칠맛 그리고 게의 맛 까지 너무 좋았다. 진하다보니 약간의 텁텁함이 있지만 괜찮을정도 농도도 너무 진하고 면과도 어울림 왠만해선 국물을 계속 먹",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9668"
+    },
+    {
+      "postId": 9667,
+      "title": "사카나 라멘 후기(뉴비)",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "멘초비",
+        "사카나라멘",
+        "와루가키노아소비"
+      ],
+      "body": "부산에서 맛집다니는거 좋아하는 부산사람임이런 갤러리가 있는거 알고나서 여기 평가 좋은 라멘집이 사카나라멘이랑 와루가키, 멘초비 등이 있다는거 보고 하나씩 가보기로함.나는 진한도미, 일행은 맑은도미 시켜서 먹어봤는데 개",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9667"
+    },
+    {
+      "postId": 9665,
+      "title": "가솔린 이에케이름뭐였는지 기억안남",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "대솔린 웨이팅할걱정없고 가격도 만원 김추가 혜자 배신하지않는맛 근데 더 짜게 옵션은 비추할게 기본도 다른집 짜게급임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9665"
+    },
+    {
+      "postId": 9661,
+      "title": "사카나 - 교카이 쇼유 파이탄",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "모든게 다 맛있음 밸런스 좋고 차슈 맛있고 면도 적당하고 마늘 없는게 더 내 스타일이긴 하더라 여긴 진짜 다 좋지만 스프가 항상 주연을 놓치지 않고 나머지 구성들이 조연으로 있는게 너무 좋음 완뚝은 못 했는데 스프 진",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9661"
+    },
+    {
+      "postId": 9660,
+      "title": "사카나 교카이 쇼유 파이탄",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "13,500원삼겹차슈 2장, 서비스로 주신 김 네장. 원래는 두장일듯 적양파, 멘마, 부추, 마늘위에 뿌려진건 시치미인지 고운 고춧가루인지는 모르겠다만 저게 포인트인듯면은 진돔면이라 생각하면 됨먹을 때 부추 같이 올라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9660"
+    },
+    {
+      "postId": 9658,
+      "title": "쿠지라멘 카모 츠케멘",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "쿠지라멘"
+      ],
+      "body": "1시 조금 넘어서 왔는데도 웨이팅 할뻔 너무 묽지 않은 점성과 적당한 염도에 오리 맛이 살짝치고 들어오는게 괜찮았음 양은 항상 보기보다 많은듯 오리향이 조금만 더 강했으면 하는 아쉬움은 있으 여전히 더우니 조심히들",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9658"
+    },
+    {
+      "postId": 9653,
+      "title": "사카나 교카이 쇼유 파이탄",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "약간 텁텁한 느낌이 있긴한데 교카이 특성상 어쩔수 없는 부분인듯?처음에 마늘 안섞고 먹다가 나중에 섞어서 먹으니 물리지도 않고 맛잇었음혹시 가실 생각 있다면 지금이라도 빨리 웨이팅 거시길..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9653"
+    },
+    {
+      "postId": 9649,
+      "title": "테우치멘 돈코츠, 아부라 2라후기",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "돈코츠는 맛있는데 굳이 줄서서 먹을급은 아니고 아부라(아부라소바)는 개인적으로 별로 사골칼국수급아니면 줄설필요없다본다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9649"
+    },
+    {
+      "postId": 9635,
+      "title": "가솔린 앤 로지스 첫방문 2라 후기",
+      "publishedAt": "2026-08-22",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "오늘 출근전 잠깐 들린 가솔린앤로지스 요즘 부라갤에 이에케 비슷한거 평가가 너무좋길래 바로 서면으로 내달림가게 매우 쾌적하고 볼거리도 꽤있었음 지인 또는 연인과 방문해도 손색없을듯이에케 보통 마늘추가 기름많이 로 주문",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9635"
+    },
+    {
+      "postId": 9631,
+      "title": "와루가키 - 쇼가 쇼유 / 가솔린 - 이에케 같은거",
+      "publishedAt": "2026-08-21",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "오랜만에 방문한 와루가키 금요일 밤인데 퇴근시간보다 조금 일찍 갔더니 웨이팅은 없었음 흠잡을 게 없는 맛있는 한그릇 차슈, 멘마, 면, 수프 다 좋았고 생강향도 그리 강하지 않았음 살짝 받쳐주는 느낌 최근에 먹은",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9631"
+    },
+    {
+      "postId": 9626,
+      "title": "가솔린 요코하마풍 돈코츠쇼유 후기-",
+      "publishedAt": "2026-08-21",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "이전에 요코하마 돈코츠쇼유보단 염도가 낮아진거같고이번에 태권돈코츠보다는 염도가 높은 라멘지금 파는 태권돈코츠나 돈코츠쇼유나 비슷한 결이고 맛있지만가볍거나 높은 염도가 불편하면 태권돈코츠그래도 이에케 같은건데 염도는 좀",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9626"
+    },
+    {
+      "postId": 9616,
+      "title": "라멘유메 쇼유 테우치 다시소바",
+      "publishedAt": "2026-08-21",
+      "restaurantNames": [
+        "라멘유메"
+      ],
+      "body": "간장맛이 쨍하지도 않고 밸런스 있었으면은 조금 익힌 스타일 심지가 씹히지는 않았다멘마가 맛있더라아지타마고도 갠춘햇고아쉬운점은 매장안이 더움...다시소바 기존 먹던 다시소바랑 크게 달라지지않음면먹을때는 레몬제스트 향긋한",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9616"
+    },
+    {
+      "postId": 9610,
+      "title": "이틀전에 갔다왔지만 지금 올리는 카네다 방문후기 (이에케? 돈코츠쇼유)",
+      "publishedAt": "2026-08-21",
+      "restaurantNames": [
+        "카네다",
+        "테우치멘이토"
+      ],
+      "body": "이틀전 그렇게 유명하다는 테우치멘 한번 먹어보고자 전포로 발걸음을 올렸으나 아뿔싸… 휴무란다 그래서 바로옆에 카네다방문해봤는데 여기도 이에케하길래 주문해봤다가게가 좀 덥긴한데 정말간만에 가게에서 후각신경이 반응하는 압",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9610"
+    },
+    {
+      "postId": 9608,
+      "title": "유메 쇼유 & 가솔린 태권",
+      "publishedAt": "2026-08-21",
+      "restaurantNames": [
+        "가솔린앤로지스",
+        "라멘유메"
+      ],
+      "body": "라뉴비라 두곳 다 첫방문임 둘다 뭐 추가안하고 기본 유메 쇼유 난 시오를 더 좋아하는데 여기갤에 쇼유 리뷰가 많아보여서 쇼유 시킴 개맛있었고 매장이 더웠음 시오는 어떨지 기대됨 빨리 또 가고 싶다 가솔린 태권돈코츠 걍",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9608"
+    },
+    {
+      "postId": 9588,
+      "title": "가솔린 이에케",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "꺼어어어어억~5번은 더가야겟다- dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9588"
+    },
+    {
+      "postId": 9585,
+      "title": "사이쿄우 츠케멘",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "사이쿄우"
+      ],
+      "body": "면 맛있네 배불러 삼겹차슈 고트인듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9585"
+    },
+    {
+      "postId": 9584,
+      "title": "가솔린 요코하마돈코츠쇼유",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "짜게 기름많이 멘마 김 차슈추가 먹자말자 그리웟던 호로롯쿠의 맛이느껴짐 찐하고 너무맛있음 시금치랑 양배추있는것도 개호감 야채추가 메뉴 내주면 좋겟더라 없어지기 전에 자주먹어야겟다 다짐하게 되는맛이엿음.. 그래서 저녁에",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9584"
+    },
+    {
+      "postId": 9582,
+      "title": "잊을때마다 가는 쿠지 니보시아부라",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "쿠지라멘"
+      ],
+      "body": "쿠지 아부라(아부라소바) 특유의 매콤달큰한 맛이 중독성이 있어서 잊을만하면 한번씩 오게 됨",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9582"
+    },
+    {
+      "postId": 9581,
+      "title": "라멘 뉴비 사카나 첫방문",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "헐 존나 맛있내... 후추 때문인지 첫 한모금에서 중국집 우동 같다는 인상이 강하게 느껴졌는데 그것의 아득한 상위버전 느낌 생선 풍미도 너무 좋았음 맑돔도 맛있으려나 다음에 또와야지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9581"
+    },
+    {
+      "postId": 9580,
+      "title": "진짜 오랜만에 펀치 가봤는데 ㅋㅋㅋ",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "펀치"
+      ],
+      "body": "내 입맛이 바뀐건지요기 맛이 변한건지이렇게 별루였나 싶네차슈에서 냉장고 쩐내나고전에는 코를 박고 먹었던거 같은데너무 충격받음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9580"
+    },
+    {
+      "postId": 9576,
+      "title": "가솔린 요코하마풍",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "부산에서 먹은 이에케중에선 가장 나은 느낌 염도 짜게 ,김추가,기름추가 함 다들 후기보니 산미얘기가 있던데 약간의 산미가 있긴한데 튀는느낌은 아닌듯하다 토핑에 양배추가 있어서 특이한데 먹다 짜면 양배추랑 같이 먹",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9576"
+    },
+    {
+      "postId": 9574,
+      "title": "와루가키 쇼가 쇼유",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "우선 사진 지송요 몇주 항상 고정메뉴인 쇼가가 궁금해서 못참고 방문맛은 좋은 온도감의 스프에 생강향이 끝에 살짝 치고 가더라면은 푹 익은 면이라 난 좋았는데 이건 좀 호불호 갈릴 듯그리고 새삼 차슈랑 멘마가 좋더라듀록",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9574"
+    },
+    {
+      "postId": 9572,
+      "title": "복동이네 개맛있농",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "복동이네오지상"
+      ],
+      "body": "고기향?은 취향이아닌데 국물이 존맛이네 - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9572"
+    },
+    {
+      "postId": 9570,
+      "title": "키무엔 토리파이탄, 아부라소바",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "키무엔"
+      ],
+      "body": "강한 감칠맛이 끝나지않는다 면도 소면이라 국물이 잘 스며들어있고 기름지지 않아 물리는 맛이 없다 그냥 쭉쭉 들어감 밥말아 먹어도 딱히 간이 약해진다거나 그런거 없다 걍 첫입부터 마지막까지 감칠맛,염도가 계속 쳐주니까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9570"
+    },
+    {
+      "postId": 9569,
+      "title": "가솔린 요코하마풍 이에케",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "돌아왔구나 요물 염도 짜게 가능하고 기름 무료 추가 가능 김추가 500원 하면 이렇게 나옴 밥이랑 같이 먹으면 좋은데 양 개 많으니 참고하시고 특이하게 양배추 좀 들어가있더라 태권보다 더 헤비한 이에케다운 이에케 최대",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9569"
+    },
+    {
+      "postId": 9568,
+      "title": "테우치 돈코츠쇼유(이에케), 아부라소바 후기",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "흑흑 우리 쇼군형 다리가 얼마나 아팠으면 어제 휴무를 했을까 ㅠㅠ 진짜 라멘맛으론 깔수가 없다.. 맛표현 잘 못하는데 최대한 해보자면.. 우선 이에케(염도 짜게, 나머지 기본), “그냥 맛있다.” 부산에 이에케 잘하는",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9568"
+    },
+    {
+      "postId": 9567,
+      "title": "부타갱스터 스트롱부타 먹고옴",
+      "publishedAt": "2026-08-20",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "스트롱부타면추가 차슈추가부갱만 벌써 3번째 왔나 싶은데사실 원래는 갈 생각이 없었음순수 돈코츠를 원래 즐겨먹지 않는 편임그런데 최근에 집에서 국물 요리 이것저것 하면서돼지육수 뽑는데 좀 난항을 겪었는데맛이 더러워지거나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9567"
+    },
+    {
+      "postId": 9557,
+      "title": "쿠지라멘 - 카모 츠케멘",
+      "publishedAt": "2026-08-19",
+      "restaurantNames": [
+        "사이쿄우",
+        "쿠지라멘"
+      ],
+      "body": "오늘 정상영업하나 인스타 봤다가 카모 츠케멘 이벤트 있길래 바로 달려감 츠케멘은 사이쿄우에서만 먹어봤는데 쿠지도 맛있네요 뭔가 불향이 느껴지는데 맛있게 탄 맛이라고 하면 좀 그렇나? 난 그렇게 느꼈음 오리구이를 했는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9557"
+    },
+    {
+      "postId": 9556,
+      "title": "와루가키-쇼유",
+      "publishedAt": "2026-08-19",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "쇼유라멘 챠슈추가 13500원 내부가 너무 어두워서 플래시가 터지더라… 근처에 볼일있어서 온김에 먹었음갑자기 쇼유가 너무 땡겨서 시킨거였는데 스프가 꽤 만족스러웠음 온도감도 좋고 개인적으로 찌르는향 날카로운맛 나는 쇼",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9556"
+    },
+    {
+      "postId": 9555,
+      "title": "어쩌다보니 먹은 가솔린 요코하마이에케 후기",
+      "publishedAt": "2026-08-19",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "라오전에 태권돈코츠 먹으러가서 키오스크 눌렀는데 메뉴판에 있더라 혹시 미리 올려놓기만 하신건가 싶긴했는데 품절 안뜬거보니 먹을 수 있을거같길래 시켰음 염도짜게 기름추가 마늘추가 김추가함 염도는 조절되더라 덜짜게는 자세",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9555"
+    },
+    {
+      "postId": 9554,
+      "title": "부타 갱스터 - 클리어 부타",
+      "publishedAt": "2026-08-19",
+      "restaurantNames": [
+        "부타갱스터",
+        "테우치멘이토"
+      ],
+      "body": "시오+호소멘+기본+면 추가3시쯤에 먹었는데 바빠서 지금 올림보통 일주일에 한 번씩은 라멘을 먹는 편이라서, 오늘은 어디를 갈지 고민하다가 테우치멘 이토를 단 한 번도 안 가봤기 때문에 거기를 방문해보려고 했음오래 대기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9554"
+    },
+    {
+      "postId": 9552,
+      "title": "사이쿄우, 규스지 커리바 지로",
+      "publishedAt": "2026-08-19",
+      "restaurantNames": [
+        "규스지커리바",
+        "사이쿄우"
+      ],
+      "body": "사이쿄우- 농후 츠케멘 지로ver면 추가차슈 추가어분 넣음얇은면 변경야채 많이세아부라(아부라소바) 많이전체적으로 밸런스가 좋아서 맛있었어요면이 따로 나와서 일반적인 지로라멘처럼 처음부터 끝까지 스프와 면을 함께 먹으면서 맛의 강도",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9552"
+    },
+    {
+      "postId": 9549,
+      "title": "숏타임푸드빠- 젠 마시마시 라멘",
+      "publishedAt": "2026-08-19",
+      "restaurantNames": [
+        "숏타임푸드빠"
+      ],
+      "body": "젠 마시마시 라멘 - 12,000원 숏푸빠에서 한 지로 중 가장 지로다운 지로인듯 젠마시마시는 사장님 기준이신 거 같지만 염도나 세아부라(아부라소바) 밸런스도 좋고 특히 차슈 차슈 간을 제대로 안 하는 업장이 많은데 항상 차슈 먹",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9549"
+    },
+    {
+      "postId": 9543,
+      "title": "부타갱스터 스트롱부타 후기 ㅇㅇ",
+      "publishedAt": "2026-08-19",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "일단 라멘집 첫도장깨기면 난 젤 기본부터 먹어봄 중면에 기본 스트롱부타 일단 타 지점보다 삼겹차슈가 ㅈㄴ두터움 씹는맛이 있어야 고기라고 생각함고기는 합격면 굵기도 마음에 들고 거슬리는 거 없었다그 다음 육수 여기는 육",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9543"
+    },
+    {
+      "postId": 9525,
+      "title": "오늘자 카네다",
+      "publishedAt": "2026-08-18",
+      "restaurantNames": [
+        "가솔린앤로지스",
+        "와루가키노아소비",
+        "카네다"
+      ],
+      "body": "카네다 카니 미소 츠케멘일단 츠케멘을 많이 안 먹어봄옛날 카페 옆 가솔린에서 2번지금 가솔린에서 2번카에리 1번와루가키노 1번일본에서 이름 모르는 곳 2번 비린거 좋아하기도 하고요새 좀 땡기길래 마음 먹은김에 금방 다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9525"
+    },
+    {
+      "postId": 9524,
+      "title": "시청 찬찬&토리모토",
+      "publishedAt": "2026-08-18",
+      "restaurantNames": [
+        "멘야토리모토",
+        "아부라클럽",
+        "카네다"
+      ],
+      "body": "찬찬 창케시오 기본 11,000카네다,아부라(아부라소바)클럽에서 창케 먹어봄두곳이랑 다른 뭔가가 있는건지 기분탓인지 모르겠는데내입맛엔 더 맛있었음 ㅋㅋㅋ 챠슈도 부들부들 굿창케처럼 부서지는 면 안좋아하는데 술술 잘들어가긴해만천원이",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9524"
+    },
+    {
+      "postId": 9523,
+      "title": "카네다 밥 개웃김",
+      "publishedAt": "2026-08-18",
+      "restaurantNames": [
+        "카네다"
+      ],
+      "body": "파랑 고기 안줘도 되는데 줄거면 왜 저만큼 주냐고ㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9523"
+    },
+    {
+      "postId": 9521,
+      "title": "어제 전포 질문글 올린 사람인데",
+      "publishedAt": "2026-08-18",
+      "restaurantNames": [
+        "라멘유메",
+        "테우치멘이토"
+      ],
+      "body": "테우치는 보나마나 웨이팅 길것같아서 그냥 라멘유메 감. 쇼유 염도+ 차슈+ 차슈밥 시켰는데 맛있게 잘 먹었다. 살면서 먹어본 쇼유라멘중 제일 맛있는 편인듯, 자주 시키는 메뉴는 아니긴 한데 그래도 다음에도 먹고 싶을",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9521"
+    },
+    {
+      "postId": 9520,
+      "title": "사이멘 토리시오 염도 커스텀",
+      "publishedAt": "2026-08-18",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "퇴근하고 전포와서 이번엔 좀 다른 라멘 먹어야지.. 생각하다가 이 토치로 구운 닭다리살에 개뜨거운 국물 한그릇이 생각나버려서 또또또또찾은 사이멘 토리시오 내 입맛에 염도 기본은 싱겁고 염도 짜게는 좀 짜서, 염도 기본",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9520"
+    },
+    {
+      "postId": 9507,
+      "title": "라멘유메 시오",
+      "publishedAt": "2026-08-18",
+      "restaurantNames": [
+        "라멘유메",
+        "테우치멘이토"
+      ],
+      "body": "시오 짜게 + 차슈덮밥테우치 웨이팅있길래 바로 턴해서 유메로 감저번에 쇼유 먹었을땐 엄청 만족했던것 같은데 이번엔 먹자마자 오는 감동이 별로 없었음일단 면뭉침이 너무 심해서 먹기 불편했어그리고 오픈했을때 갔는데 물이",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9507"
+    },
+    {
+      "postId": 9504,
+      "title": "테우치 쿠로부타돈코츠(쇼유) 후기-",
+      "publishedAt": "2026-08-18",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "지난주에 이에케 못먹어서 비슷한 느낌으로 주문돈코츠 쇼유지만 조금 맑은 느낌에 무난히 맛있게 먹고옴웨이팅이 좀 걸렸는데 갤에 왜 여자많으면 튀는지 알수있었음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9504"
+    },
+    {
+      "postId": 9501,
+      "title": "키무엔",
+      "publishedAt": "2026-08-18",
+      "restaurantNames": [
+        "쿠지라멘",
+        "키무엔"
+      ],
+      "body": "첫 키무엔 부산대의 빛 토리파이탄의 교과서 깔게없는 한그릇. 아부라(아부라소바)소바 맛있을거 뻔히 보인다. 몇번 더 와야지 쿠지계열은 한번도 실망한 적이 없음. - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9501"
+    },
+    {
+      "postId": 9490,
+      "title": "시청 찬찬라멘 쇼유 창케라멘",
+      "publishedAt": "2026-08-18",
+      "restaurantNames": [
+        "카네다"
+      ],
+      "body": "(11,000 + 차항 5,000)전에 카네다에서 먹었을 땐 그냥 무난한 느낌이라 한두 번 먹고 말았는데비 오는 날 오랜만에 갑자기 땡겨서 먹고 왔서원래는 창케 특유의 흐들흐들한 면을 별로 안 좋아했었우점바점 차이인",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9490"
+    },
+    {
+      "postId": 9479,
+      "title": "지평 이에케 후기",
+      "publishedAt": "2026-08-17",
+      "restaurantNames": [
+        "나의피는라멘으로되어있어",
+        "중화소바지평",
+        "카네다"
+      ],
+      "body": "본인은 모든 라멘중에 이에케를 제일 좋아하고 좋아하는 사람임카네다 나피라 하쿠텐 무겐스위치 최근에 오픈한 츠바사(제일 취향에 잘맞음)등등 한국에 유명한 이에케집을 다 가봤음 일본에서는 요코하마에서만 6일 있으면서 스기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9479"
+    },
+    {
+      "postId": 9473,
+      "title": "지평 이에케",
+      "publishedAt": "2026-08-17",
+      "restaurantNames": [
+        "중화소바지평"
+      ],
+      "body": "차슈, 계유 추가와씨 왤케 맛이 진하냐?가게 들어올때부터 돼지 육향이 심상치 않긴 했는데이건...와...다음엔 싱겁게 먹어야겠다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9473"
+    },
+    {
+      "postId": 9471,
+      "title": "부타갱 포테이토 돈코츠",
+      "publishedAt": "2026-08-17",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "숙취라 맛평가 정확하지 않을 수 있음면추가 김추가 차슈추가체감상 스트롱부타보다 걸쭉함염도는 좀 낮은 느낌인데 엄청 담백함내 혀가 이상한건지 짠맛이 안느껴지는..?염도 조절도 없었던거같음밥 말아먹는건 비추.. 담백한맛이",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9471"
+    },
+    {
+      "postId": 9470,
+      "title": "테우치멘이토 이에케같은거",
+      "publishedAt": "2026-08-17",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "짜고, 닭기름 보통, 김추가 염도는 대충 쇼유라멘 짜게 먹은 느낌 짜게 먹을거면 닭기름도 담엔 많이하는게 밸런스 좋을꺼 같다. 겉절이 주시는데 시원하니 맛있다 원래 김치같은거 안먹는데 그리 막 쿰쿰하지않고 매콤해서 먹",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9470"
+    },
+    {
+      "postId": 9469,
+      "title": "키무엔 토리파이탄",
+      "publishedAt": "2026-08-17",
+      "restaurantNames": [
+        "키무엔"
+      ],
+      "body": "킹이즈백 키무엔 토리파이탄이 돌아왔음 존나맛있음 먼 말이 더 필요할까 - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9469"
+    },
+    {
+      "postId": 9462,
+      "title": "저번주 이에케 두개",
+      "publishedAt": "2026-08-17",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "진주탭룸 말복 이벤트메뉴(차슈추가, 짜게, 기름지게) 이건 테우치 (보통, 기름많이) 이에케를 부산에서만 먹어봤고 잘 모른다 생각해서 장르적인 평가는 패스함 테우치는 뭐 맛있었고 탭룸은 바에서 하는 이벤트메뉴라 크게",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9462"
+    },
+    {
+      "postId": 9461,
+      "title": "와루가키노아소비 말복 이벤트 라멘",
+      "publishedAt": "2026-08-17",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "(16,000 +계란 1,500 +숯불 오리 차슈 3,000)되게 묵직하고 꾸덕한 질감의 스프였음중복 때 먹었던 파이탄보다 한층 더 농후해진 느낌에염도는 꽤 짭짤하게 잡혀 있는 편이었고육류 베이스에 블렌딩된 고등어 향",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9461"
+    },
+    {
+      "postId": 9449,
+      "title": "비오는날 오랜만에 아부라클럽",
+      "publishedAt": "2026-08-16",
+      "restaurantNames": [
+        "아부라클럽"
+      ],
+      "body": "어제 술 진탕먹고 일어났는데 비도 잔뜩오고 속도허해서 뜨끈한거 달리러 오랜만에 아부라(아부라소바)클럽왓음 멘마추가 한양이고 차슈는 기본으로도 엄청많이들었더라 백후추 잔뜩뿌려서 먹으니까 속이 확풀리는맛임 다음엔 시청에 찬찬도가봐야지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9449"
+    },
+    {
+      "postId": 9439,
+      "title": "가솔린-태권 돈코츠 2회차",
+      "publishedAt": "2026-08-16",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "저번에는 마늘이랑 세아부라(아부라소바) 추가했었고 이번에는 세아부라(아부라소바)만 추가했음 저번에 마늘 때문인지 타래 때문인지 스프에서 약간 쌉살한맛이 났었어 혹시나 마늘 빼봤는데 아무래도 맞았던거 같음첫입 먹었는데 저번보다 더 맛있더라 맛이",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9439"
+    },
+    {
+      "postId": 9428,
+      "title": "심야 카네다 카니 츠케멘",
+      "publishedAt": "2026-08-15",
+      "restaurantNames": [
+        "카네다"
+      ],
+      "body": "점도만 진해져도 맛 자체는 좋겠는데 아쉽네 카니 뉘앙스도 약하고 여러모로 아쉽다. - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9428"
+    },
+    {
+      "postId": 9425,
+      "title": "토리모토 특선쇼유였나",
+      "publishedAt": "2026-08-15",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "이름이 뭔가 길었는데 기억이 안남 츄카소바에 토핑 엄청 강화된 느낌 예전에 츄카소바 염도추가 했을때 좀 짜서 고민하다가 염도추가 했는데 괜찮았음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9425"
+    },
+    {
+      "postId": 9424,
+      "title": "가솔린 도쿄리멤버즈(쇼유라멘) 후기-",
+      "publishedAt": "2026-08-15",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "쇼유의 좀 쨍한맛을 빼면 큰 특징은 없는 라멘차라리 태권돈코츠를 한번더 먹을껄 싶은 아쉬움이었다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9424"
+    },
+    {
+      "postId": 9420,
+      "title": "지평 타케오카식 라멘 / 아부라소바 2라",
+      "publishedAt": "2026-08-15",
+      "restaurantNames": [
+        "중화소바지평"
+      ],
+      "body": "강서구 사람에겐 빔쓰다음으로 접근성이 좋아 자주 가는 지평지평 전메뉴 먹어보기 도전중인데 최근에 라멘을 너무 안먹어서 이번엔 2라 도전함타케오카식 라멘은 쇼유베이스에 고춧가루가 좀 뿌려져서 나오는데 국물 첫입 먹자마자",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9420"
+    },
+    {
+      "postId": 9418,
+      "title": "멘제이텐 시오라멘",
+      "publishedAt": "2026-08-15",
+      "restaurantNames": [
+        "멘초비"
+      ],
+      "body": "먹고 나와서 바로 쓰는 후기 시오라멘 12000 인스타에 닭과 조개육수라 해서 맛 느껴보려고 노력해봄 육수 첫입은 부산고트인 멘초비와는 다른결로 느껴졌고 염도는 제법 있는편 기름층은 거의 없고 사진에 보다시피 중면굵기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9418"
+    },
+    {
+      "postId": 9416,
+      "title": "테우치 대기인 김에 사카나 와서 먹음",
+      "publishedAt": "2026-08-15",
+      "restaurantNames": [
+        "사카나라멘",
+        "테우치멘이토"
+      ],
+      "body": "안키모 군함 3500가격 보고 한피스인거 같아서 두피스로 시킴라멘은 맑돔(맑은도미시오라멘)으로안키모 녹진하니 맛있고 사카나 상시메뉴 거의 먹어본거없어서 맑돔(맑은도미시오라멘) 시킴맛있었다 ㅋㅋ 이제 한두시간 후에 테우치 먹고 오늘은 아무것도 안먹어야지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9416"
+    },
+    {
+      "postId": 9395,
+      "title": "와루가키노아소비 - 이벤트 말복 라멘",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "말복 라멘 - 1.6 아지타마고랑 앞다리 차슈 추가 육해공 특공대들의 녹진함이 좋은 한 끼임 이게 보양식이지 연골 사이사이 낀 농후한 액기스가 아주 든든하게 채워주네 차슈 추가 타마고 추가 굳이 인 거 같고 든든하게",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9395"
+    },
+    {
+      "postId": 9394,
+      "title": "부갱 농돈 후기",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "다른 곳으로 확실히 손님이 몰린 것 같네. 브탐전에 도착했는데도 17식?정도 남아 있다고 하시네마늘세아부라(아부라소바)추가+부갱의 고점은 농후니보시랑 농후돈코츠인듯온도감 좋고 찐득하이 입짝짝달라붙는게 맘에듬2라 사이코우갈라다가 공",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9394"
+    },
+    {
+      "postId": 9392,
+      "title": "오늘자 와루가키노",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "말복 16.0타마고 1.5오리 차슈 3.0한 입 먹고 바로 밥 시킴ㅋㅋ감기로 인해 몸 상태 안 좋은데도 너무 맛있더라밑에 후기처럼 비린맛 없이 농후츠케지루임그리고 라임 존나 짜기 힘듬 먹고 담배 폈는데도손에 라임향 남",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9392"
+    },
+    {
+      "postId": 9391,
+      "title": "테우치 토리파이터",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "정육추가그냥 엄청 농후한 닭죽이네요한끼 더먹을꺼라 밥은 안말았는데 밥말면 좋을듯염도 평범하고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9391"
+    },
+    {
+      "postId": 9388,
+      "title": "와루가키 말복 라멘",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "11시 땡하고 걸었는데 20번대 후반이라 놀랬삼기본 1.6에 오리차슈 0.3 김 0.1 밥 0.1우선 농도? 점도는 과장 살짝 보태서 츠케지루 같았음맛은 고등어의 향과 고소한 맛이 비린 맛 없이 훅 치고 들어오더라치즈",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9388"
+    },
+    {
+      "postId": 9385,
+      "title": "부갱-농후 돈코츠",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "부타갱스터",
+        "와루가키노아소비",
+        "테우치멘이토"
+      ],
+      "body": "테우치랑 와루가키에 너무 몰리는거 같기도하고 전에 이벤트할때 못먹어봐서 겸사겸사 부갱으로 도망감 농후 돈코츠 13000원 주문면은 꼬들한 중면 토핑은 삼겹챠슈 2장,목살 1장,아지타마고,김 3장 목살도 꽤 맛있었는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9385"
+    },
+    {
+      "postId": 9382,
+      "title": "테우치 이에케",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "11시 반 주문 3n번 (초반) 이때 10번대 초반들어가는거같던데13시 07분 입장 당시 빌지 5n번까지 있었음약 10번당 한시간 전후로 잡으면 될듯염도 짜게 닭기름 많이 기본토핑 주문당연히 맛있음 염도나 치유량도 평",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9382"
+    },
+    {
+      "postId": 9381,
+      "title": "테우치 이에케 후기",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "부타갱스터",
+        "테우치멘이토"
+      ],
+      "body": "먹기전에 1라로 부갱 농후돈코츠먹고옴그래서그런지 속이 ㅈㄴ 느글거려서 제대로 못즐김맛은 그냥 부산 먹어본 이에케중에서 상위권의 맛.짜게 기름많이 했는데 둘다 보통으로먹는게 좋을듯부갱 먹고와서 또 기름진국물 먹으려니 너",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9381"
+    },
+    {
+      "postId": 9378,
+      "title": "사이쿄우 아나고츠케멘",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "사이쿄우"
+      ],
+      "body": "14500원이였나 그정도 장어를 푹 삶았는지 수프에서 장어향이랑 건더기가 좀 느껴짐 국물까지 다먹고 느낀건데 좀 먹다보니 물리는느낌이 있어서 모처럼 장어기도하니 토핑으로 산초가루를 제공해줬으면 더 좋았을듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9378"
+    },
+    {
+      "postId": 9375,
+      "title": "와루가키노 아소비 말복라멘",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "오픈런해서 먹고옴말복 라멘(16000) 멘마(1000) 숯불오리차슈(3000)가격은 좀 사악하긴하네염도는 적당했고 스프의 레이어가 다양했음(고등어,닭오리,돼지)원래 스프 다 안먹는데 먹다보니 다 먹음밥 까지 시킬걸하고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9375"
+    },
+    {
+      "postId": 9374,
+      "title": "테우치 이에케",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "짜게 치유 많이10:50분쯤 등록해서 2x번이고 12:18분 입장함걱정했는데 생각보다 존나 빨리 빠졌음 자기 앞으로 두명정도 인상착의 기억해두고 프랭클린에서 호크아이 하다가 그분들 대기할때 나오면 딱좋음염도 걱정했는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9374"
+    },
+    {
+      "postId": 9372,
+      "title": "테우치 이에케",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "12시 15분쯤 입장했고 옵션은 염도 짜게 치유 보통염도 짜게해서 좀 걱정했는데 라오타 기준 염도 괜찮았음보통하면 밸런스 좋을 것 같아서 염도는 보통하는게 좋을듯여염도짜게하니까 국물은 다 못먹음.. 잘 먹었습니다생각",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9372"
+    },
+    {
+      "postId": 9368,
+      "title": "테우치 먹기전에 부갱 농후",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "부타갱스터",
+        "테우치멘이토"
+      ],
+      "body": "다 괜찮은데 향미유를 쏟으셨나..?저번에비해서 좀 많은거같네- dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9368"
+    },
+    {
+      "postId": 9358,
+      "title": "테우치 후기",
+      "publishedAt": "2026-08-14",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "이에케토리파이터오픈 한시간전에 가서 첫테이블에 입장함이케네는 존나 맛있음 강추내가 울산 타카노를 자주가는데 거기보다는 뭔가 맛이 깔끔하다 해야하나 그럼토리파이터는 좀 애매함 농도는 통풍 느낌인데 맛은 닭죽에 참기름 넣",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9358"
+    },
+    {
+      "postId": 9329,
+      "title": "라멘유메 가봤슴",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "라멘유메",
+        "카네다"
+      ],
+      "body": "쇼유 먹었는데 깔끔하더라 요즘 라멘먹으면 맨날 카네다 이에케만 먹었는데 리프레쉬됐어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9329"
+    },
+    {
+      "postId": 9327,
+      "title": "규스지로 자꾸 생각나",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "규스지커리바"
+      ],
+      "body": "첨 먹을땐 힘들었는데 자꾸 생각나 먹으면 하루종일 배불러서 기분 좋음 텀블러에 육수만 따로 따라서 홀짝홀짝 마시고 싶을 정도임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9327"
+    },
+    {
+      "postId": 9325,
+      "title": "오늘자 토리모토",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "감기 몸살 걸려서 몸이 너무 안 좋은데오늘 아니면 시간 없어서 집 앞이라 힘내서 감몸 상태 완전 메롱이여서 염도 보통 시켰는데내가 이때까지 토리모토 와서 염도 짜게 시켰는데 늘 밸런스없이 짠 느낌이었거든근데 보통 하니",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9325"
+    },
+    {
+      "postId": 9319,
+      "title": "지평-이에케",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "중화소바지평"
+      ],
+      "body": "이에케 11000원 전부기본에 기름만 추가 지평 첫방문 사상이 본가랑 자취방 딱 중간에 있어서 나한테는 위치가 너무 별로라 미루고 미루다 오늘 처음가봄가게 앞부터 돼지 꼬릿한향이 코를 스쳐서 꽤 기대하고 들어갔음가게안",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9319"
+    },
+    {
+      "postId": 9318,
+      "title": "오늘의 2라",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "나의피는라멘으로되어있어"
+      ],
+      "body": "점심 나피라 시루나시지로 커리 면추가 반숙후라이추가 밥이품절이라서 아쉬웟음 카레향 찐한게 너무취향 근데 마요네즈는 너무많아서 담엔 좀 적게달라해야할듯 저녁 태극 돈코츠 세아부라(아부라소바) 마늘 추가 그냥 goat 이전에 나온 가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9318"
+    },
+    {
+      "postId": 9316,
+      "title": "토리모토 카니쇼유 후기-",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "맛이 나쁘진 않지만 쇼유향에 게맛이 좀 잡아먹혀서 기대 했던거보단 아쉬웠음찾아가서 먹을정도는 아닌 느낌",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9316"
+    },
+    {
+      "postId": 9315,
+      "title": "가솔린 쇼유와 맥주",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "약간의 단맛과 미역 그리고 가솔린의 두께감 있는 면이 우동 뉘앙스를 만들어내는 쇼유라멘 염도는 그리 높지 않고 무난무난한 쇼유 고로 태권을 적극 추천한다. 술은 그렇게 좋아하지 않지만 맥주 한잔 먹는 건 좋아해서 프리",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9315"
+    },
+    {
+      "postId": 9309,
+      "title": "가솔린 태권돈코츠",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "맛있음 세아부라(아부라소바) 간마늘추가난 전체적으로 부타갱보다 가솔린이 훨맛있네 부타갱갈때마다 뭔가부족했는데가솔린은 갈때마다 저점은 항상보장해왔던거같음 앞으로 부타갱은 안갈거같음 결론 가솔린 맛있다- dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9309"
+    },
+    {
+      "postId": 9308,
+      "title": "부갱 신메뉴 먹어봄",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "청탕을 좋아하고 돈코츠 많이 안먹어봐서 맛 설명이나 평가를못하겠음... 여기서 먹은 스트롱도 맛이 어땠는지 기억안나서설명이나 비교를 못하겠다;; 면은 얇은 면이었고 쨍한맛 크게 없고 담백한 편이었음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9308"
+    },
+    {
+      "postId": 9305,
+      "title": "사카나 고등어 볶음밥",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "7,000원안에 들어간건 버섯, 애호박, 고등어에 위에 올라간 깻잎임이거 요물이더라전체적으로 일본 향신료를 쓴 필라프에 고등어향 첨가한 느낌임갠적으로 이것만 사서 먹고 나가도 되겠다 싶을만한 퀄리티였음전체적인 볶음밥에",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9305"
+    },
+    {
+      "postId": 9295,
+      "title": "가솔린 태권 머시기",
+      "publishedAt": "2026-08-13",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "오랜만에 가솔린에서 맛있게 먹었는데 접객은 많이 아쉬웠음 좀 짜증날정도 굳이 머 이야기는 안할듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9295"
+    },
+    {
+      "postId": 9292,
+      "title": "쿠지 니보시아부라",
+      "publishedAt": "2026-08-12",
+      "restaurantNames": [
+        "쿠지라멘"
+      ],
+      "body": "다좋았는데 내기준 너무 달더라관광지라그런가?? 아님 나만 그렇게느끼는지 몰겠네 부랄이들은 어땟냐?- dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9292"
+    },
+    {
+      "postId": 9286,
+      "title": "멘야토리모토 카니 쇼유",
+      "publishedAt": "2026-08-12",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "비쥬얼 쪼매 귀엽네 스프가 좋았던 카니 쇼유(짜게) 단맛 적은 구수한 쇼유에 닭+게 블렌딩 육수라 감칠맛이 좋았다. 가장 좋아하는 스타일. 홍게살이 맛있진 않고 홍게 자체가 스프를 잘 끌어올린다고 생각. 면이 스프랑",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9286"
+    },
+    {
+      "postId": 9284,
+      "title": "지평 이에케",
+      "publishedAt": "2026-08-12",
+      "restaurantNames": [
+        "중화소바지평"
+      ],
+      "body": "무난해요",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9284"
+    },
+    {
+      "postId": 9281,
+      "title": "간만에 유메",
+      "publishedAt": "2026-08-12",
+      "restaurantNames": [
+        "라멘유메"
+      ],
+      "body": "시오라멘 염도 기본미니 차슈 덮밥 새로 생겼길래 시켜봄내가 알던 맛이 아닌데 뭔가 바꼈나? 맛있다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9281"
+    },
+    {
+      "postId": 9280,
+      "title": "사이쿄우-신농후 츠케멘",
+      "publishedAt": "2026-08-12",
+      "restaurantNames": [
+        "사이쿄우"
+      ],
+      "body": "어분빼고 얇은면으로 변경 전까지는 쭉 어분을 넣어서 먹었는데 이번에 빼고 먹어보니까 빼는쪽이 밸런스가 더 좋은거 같음 확실히 넣었을때보다 덜물리는거 같고 어분뺀걸 감안해도 밸런스가 좀 좋아진거 같음 전에는 먹다보면 한",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9280"
+    },
+    {
+      "postId": 9278,
+      "title": "쿠지라멘 블랙 아부라",
+      "publishedAt": "2026-08-12",
+      "restaurantNames": [
+        "쿠지라멘"
+      ],
+      "body": "쿠지 떠날지도 모른다는 위기감으로 전메뉴 다 먹어보는 중 오늘은 블랙아부라(아부라소바) 사실 돈코츠쇼유 먹으려 했는데 이미 품절.. 여유 부리다가 15식 컷 ㅠ 블랙 아부라(아부라소바) 자체가 처음인데 짜파게티더라 ㅋㅋ 면발이 엄청 업그레이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9278"
+    },
+    {
+      "postId": 9276,
+      "title": "멘야 토리모토 - 카니 쇼유",
+      "publishedAt": "2026-08-12",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "게 밑에 게살다져놓은것들 들어가있음 기존 쇼유에 게향 은은하게 더한느낌? 게 좋아한다면 한번쯤먹어볼만함 - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9276"
+    },
+    {
+      "postId": 9272,
+      "title": "가솔린 태권돈코츠 2회차 후기-",
+      "publishedAt": "2026-08-12",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "1회차보다 염도가 많이 오름그래봤자 원래 많이 낮았던거라 라멘 먹던사람들에게는 무난한 염도역시나 맛있었음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9272"
+    },
+    {
+      "postId": 9268,
+      "title": "대구나 나피라 ㄱㅊ은데",
+      "publishedAt": "2026-08-12",
+      "restaurantNames": [
+        "나의피는라멘으로되어있어"
+      ],
+      "body": "나중에 서울가면 566가서 비교를 해봐야겠지만쇼유타래 한스푼정도 더 넣어서 먹으면 ㄱㅊ은듯함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9268"
+    },
+    {
+      "postId": 9263,
+      "title": "카네다 이에케 맛있긴 한데 면이 묘하노",
+      "publishedAt": "2026-08-12",
+      "restaurantNames": [
+        "카네다"
+      ],
+      "body": "면이 두 가닥씩 붙어 있기도 하고.. 길이도 꽤 짧음 좀 먹어볼까~ 싶으면 면이 끊겨 있어서 맛있게 먹다가 뭐노? 하게 됨 재보진 않았지만 면 길이가 손가락 2~3마디 정도 밖에 안 되는, 후루룩 하지는 못 할 정도의",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9263"
+    },
+    {
+      "postId": 9253,
+      "title": "와루가키 차슈 하나만큼은 ㅇㅈ임",
+      "publishedAt": "2026-08-11",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "복날에 했던 훈제오리챠슈가 ㄹㅇ 지렷음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9253"
+    },
+    {
+      "postId": 9248,
+      "title": "가솔린 태권 돈코츠 묵고옴",
+      "publishedAt": "2026-08-11",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "결론부터 말하자면 맛있다 밥공기까지 뚝딱임 라이트하단 말도 있길래 그렇게 생각하고 갔더니 생각보다 진해서 좋았음 지난번 니싱처럼 탁 치고들어오는 맛은 없는데 그래서 오히려 계속 먹어도 안질림 엔초비 니싱 이런건 첫입부",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9248"
+    },
+    {
+      "postId": 9246,
+      "title": "찬찬 시청점 창케시오",
+      "publishedAt": "2026-08-11",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "파 추가, 반숙란 추가+볶음밥오늘 좀 시원하기도 햇고 쉬는날이라 천천히 걸어가는데 점점 더워져서 토리모토로 튈까 고민하다가 기어나온김에 걍 가봐야지 하고 더 걸어옴염도추가는 따로안했음창케먹는게 처음이라 사실 쇼유를 먼",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9246"
+    },
+    {
+      "postId": 9245,
+      "title": "가솔린 소유랑 태권",
+      "publishedAt": "2026-08-11",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "태권 맛있었고 소유도 좋았음태권은 딱 보이는 맛이고소유는 맑은류 좋아하는데 어떤느낌이냐면그 막 일본 체인점이나 찜질방 같은데서파는 소유라멘인데이걸 개인이 만들수있는 최대의 맛인느낌?난 일부러도 그런 소유라멘 찾아먹어서",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9245"
+    },
+    {
+      "postId": 9243,
+      "title": "가솔린 태돈",
+      "publishedAt": "2026-08-11",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "2회차 태권 돈코츠 더 진해진 것 같음 가볍다고 생각이 안드네 밥 두공기 싹싹 비워서 잘 무금 쇼유도 궁굼하긴한데 달달쇼유라서 고민되네 비슷한 뉘앙스 나는 곳이 어디려나 - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9243"
+    },
+    {
+      "postId": 9216,
+      "title": "가솔린 태권돈코츠",
+      "publishedAt": "2026-08-10",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "세아부라(아부라소바)+마늘 추가오늘 오픈때 달려갔는데 섞박지 없드랑..무난하게 맛있긴한듯근데 지난주에 니싱을 너무 맛있게 묵어서 상대적으로 아숩달까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9216"
+    },
+    {
+      "postId": 9212,
+      "title": "가솔린 태권도",
+      "publishedAt": "2026-08-10",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "산미 있다길래 어느정도일지 궁금했는데 딱 내 입에 맞았어잉",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9212"
+    },
+    {
+      "postId": 9204,
+      "title": "가솔린 신메뉴 먹어봄",
+      "publishedAt": "2026-08-10",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "토쿄 리멤버스 9500원 + 차슈추가 2000원맛있다 달큰짭잘하니 내 입맛에 잘 맞았음 먹다보니 감칠맛때문에혀가 피로해서 콜라랑 같이 먹으니까 좋았다미역이 올라가있는데 개인적으로 국물에 풀지말고 면 먹고나서 조금씩 덜",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9204"
+    },
+    {
+      "postId": 9186,
+      "title": "가솔린앤로지스 태권 돈코츠, 토쿄 리멤버스",
+      "publishedAt": "2026-08-10",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "태권 돈코츠 (돈코츠 쇼유, 10,000원)마늘 추가토쿄 리멤버스 (쇼유 라멘, 9,500원)쇼유 라멘 - 청어가 다 나가고 못 보던 쇼유라멘 메뉴가 있길래 시켜봤어쨍하게 짠 스타일보다는 달큰한 감칠맛이 도는 쇼유라멘",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9186"
+    },
+    {
+      "postId": 9185,
+      "title": "가솔린 태권 돈코츠후기",
+      "publishedAt": "2026-08-10",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "가솔린은 가본적이 없어서 처음이었는데 비린건 싫어해서태권 돈코츠로 결정라이트한 이에케느낌이라고 들어서 먹는데 진짜 고런느낌근데 개인적으로는 칼국수집 이에케가튼거에서 조금 더 라이트한 느낌이었음 ㅋㅋ 김 기본양도 많고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9185"
+    },
+    {
+      "postId": 9177,
+      "title": "가솔린 태권 후기",
+      "publishedAt": "2026-08-09",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "이에케 같지만 아닌 느낌 이에케에 엄청 라이트한 버전 가솔린 염도에 익숙해져서 그런가 밸런스 좋음 역시 마늘 추가는 좋다. 니싱 사라진다는데 아쉽네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9177"
+    },
+    {
+      "postId": 9151,
+      "title": "부갱 - 클리어시오",
+      "publishedAt": "2026-08-08",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "짜게 면추가 밥반공기 추가 잘 먹었습니다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9151"
+    },
+    {
+      "postId": 9150,
+      "title": "가솔린 니싱",
+      "publishedAt": "2026-08-08",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "이전에나왔던 엔초비류랑 비슷한 결등푸른생선맛 진하게 나고 맛있었음맛이 강해서 후반에 조금 물리긴하는데국밥집 깍두기 한입하면 씻겨나감맛있었음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9150"
+    },
+    {
+      "postId": 9148,
+      "title": "쿠지라멘 에비 아부라소바 후기",
+      "publishedAt": "2026-08-08",
+      "restaurantNames": [
+        "쿠지라멘"
+      ],
+      "body": "에비 아부라(아부라소바)소바 일단 나 진순, 안성탕면 먹는 개맵찔이긴함 은근 매움 맵다는게 불닭맹키로 못 먹겠다는 아니고 탁탁 쏘는 매운 맛이 있는데 은근 맵더라 매운 맛이 강해서 솔직히 다른 맛이 묻힌 느낌이였어... 나는 두번",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9148"
+    },
+    {
+      "postId": 9143,
+      "title": "규스지 졸라덥네 ㅅㅂ 에어컨좀 새로 사라 하나는 고장난거같구만",
+      "publishedAt": "2026-08-08",
+      "restaurantNames": [
+        "규스지커리바"
+      ],
+      "body": "찜질방온줄 알았다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9143"
+    },
+    {
+      "postId": 9137,
+      "title": "키무엔 토리톤파이탄",
+      "publishedAt": "2026-08-08",
+      "restaurantNames": [
+        "키무엔"
+      ],
+      "body": "돼지랑 닭 블렌딩한 육수라던데 닭이 지배적인 느낌 닭곰탕맛이 나서 그냥 아부라(아부라소바)먹을껄 후회함 파이탄이라기보단 청탕에 가까웠음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9137"
+    },
+    {
+      "postId": 9133,
+      "title": "규스지 오늘",
+      "publishedAt": "2026-08-08",
+      "restaurantNames": [
+        "규스지커리바"
+      ],
+      "body": "폼 미쳤으니 방문 필요합니다 (추가: 숙주 개많음 면추가 +1하면 성인 남자한테 딱 맞을듯 평소에 이렇게 숙주 안 줬는데 뭐지)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9133"
+    },
+    {
+      "postId": 9127,
+      "title": "사이멘 토리파이탄",
+      "publishedAt": "2026-08-08",
+      "restaurantNames": [
+        "멘초비"
+      ],
+      "body": "닭 고기 4개 연근칩 방울토마토 브로콜리랑 또 첫번째 사진 맨 아래의 어떤 버섯(?) 닭 식감 좋음 잡향도 없고. 멘초비 생각나더라. 면은 얇 중 선택 가능하고 익힘은 국수 같았음 난 중면 먹음 적당한 중면. 스프도",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9127"
+    },
+    {
+      "postId": 9102,
+      "title": "사카나 1주년 이벤트 아고 시오라멘",
+      "publishedAt": "2026-08-08",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "(17,000)주문 후 라멘 나오는 속도가 엄청 빨랐음 회전율은 진짜 좋더라스프도 같이 뜨끈뜨끈하게 나와서 좋았어라멘은 생선 특유의 향과 감칠맛이 되게 잘 살아있어서 맛있게 먹었음면은 조금 두께감 있는 편에 부드러운",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9102"
+    },
+    {
+      "postId": 9098,
+      "title": "가솔린 태권돈코츠 후기-",
+      "publishedAt": "2026-08-07",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "가솔린에 많은 이에케류 라멘이 있었지만 가장 라이트하고개인적으로는 가장 밸런스 좋았음이에케 치고는 염도가 많이 낮아서 밥말아 먹을땐 좀 아쉽지만그거 제외하면 이에케이지만 매일 먹어도 맛있을거 같고 편한 라멘5점 만점에",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9098"
+    },
+    {
+      "postId": 9097,
+      "title": "가솔린 - 태권 돈코츠",
+      "publishedAt": "2026-08-07",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "10,000원 언제나 가성비 굿 쨍한 간장 맛이 치고 올라오는 돈코츠 간마늘 추가할걸 후회함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9097"
+    },
+    {
+      "postId": 9096,
+      "title": "가솔린 2라",
+      "publishedAt": "2026-08-07",
+      "restaurantNames": [
+        "가솔린앤로지스",
+        "라멘유메"
+      ],
+      "body": "석박지 개맛있다 돈코츠쇼유는 지금까지 먹엇던 가솔린메뉴 다이기는듯 토리가라랑 쿠로마유 메뉴들보다 더좋앗음 이것도 없어지기전에 자주먹어야지 - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9096"
+    },
+    {
+      "postId": 9089,
+      "title": "가솔린 돈코츠",
+      "publishedAt": "2026-08-07",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "이전에 있던 이에케가튼거에서 닭이랑 치유 빠진 느낌임 염도 쨍하고 간장 맛이 꽤나 지배적임 적당히 진해서 굉장히 맛있게 먹음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9089"
+    },
+    {
+      "postId": 9088,
+      "title": "사카나 1주년 시오",
+      "publishedAt": "2026-08-07",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "맛이 있는데 평소보다 훨씬 맛있냐 그건 아님생선은 싫어하지만 사카나 라멘은 먹을 수 있었는데이번에는 생선 맛이 강함 하지만 비린건 아니고통조림 참치보다 조금 더 강한 느낌생선 싫어하면 굳이 도전할 이유는 없을듯 국물",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9088"
+    },
+    {
+      "postId": 9087,
+      "title": "사카나-아고라멘 시오",
+      "publishedAt": "2026-08-07",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "17000원 부산라멘중에서는 순정가격으로는 최고가인거 같음인스타 피드에 설명 적어놓으신거 보니까 재료가 상당히 많이 들어간듯해서 개인적으로는 시오가 스프맛을 더 잘느낄수 있을거같아시오로 시킴 토핑은 사카나 기본 토핑에",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9087"
+    },
+    {
+      "postId": 9085,
+      "title": "사카나 후기 보고 쇼유로 한번 먹어 본 라알못의 후기",
+      "publishedAt": "2026-08-07",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "어떻게 맛 표현을 해야하는지, 맛있는 쇼유는 뭘 기준으로 잡아야 하는지 그런건 하나도 몰라서 두서없이 생각나는대로 막 적어요. 특별한 메뉴다보니 오.. 역시 다르네 같은거 기대했는데, 진돔(진한도미시오라멘) 처음 먹었을때의 와 뭐다냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9085"
+    },
+    {
+      "postId": 9082,
+      "title": "사카나 라멘 - 1주년 특선 아고라멘",
+      "publishedAt": "2026-08-07",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "아고 라멘 - 17,000원 사카나 1주년 기념 날치라멘 늘 먹던 사카나의 뉘앙스가 엄청 강하고 평소 보다 맛의 깊이나 레이어드가 좋음 근데 딱 평소 사카나 보다 고급스러운 느낌임 가장 기본적인 가게 캐릭터를 잘 보여",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9082"
+    },
+    {
+      "postId": 9067,
+      "title": "멘제이텐 매운돈코츠",
+      "publishedAt": "2026-08-07",
+      "restaurantNames": [
+        "쿠지라멘",
+        "쿠지라스토랑"
+      ],
+      "body": "꽤 농후해서 좋음 저녁탐에갔는데 밥달라하면 쿠지라스토랑처럼 차슈토치에구워서 하나더주고 김도 하나 얹어줌 만원에 밥추가도 공짜인데 개배불리먹고옴 가성비좋음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9067"
+    },
+    {
+      "postId": 9060,
+      "title": "유메는 진짜 ㅋㅋ",
+      "publishedAt": "2026-08-06",
+      "restaurantNames": [
+        "라멘유메"
+      ],
+      "body": "솔직히 맛도 사람 많아지고부터 하락세인데 접객은 변함없이 하대하네표정에서 다 드러나요 ㅇㅇ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9060"
+    },
+    {
+      "postId": 9059,
+      "title": "부타갱스터 시오 청탕 세면 짜게 마늘추가 김추가",
+      "publishedAt": "2026-08-06",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "요즘 운동하고 식단한다고몸무게 8kg정도 줄은 상태인데그러다보니 유독 짜게 느껴진다그동안도 짯는데 자주먹어서 못느낀거 같기도함ㅋㅋㅋ여튼 오랜만에 먹어도 맛있다돈코츠청탕 이정도로 해주는곳이 있음에 감사- dc offic",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9059"
+    },
+    {
+      "postId": 9044,
+      "title": "규스지커리바 다녀옴",
+      "publishedAt": "2026-08-06",
+      "restaurantNames": [
+        "규스지커리바"
+      ],
+      "body": "ㄹㅇ존맛이더라지로계라멘 첫입문을 아무데서나 했는데 염도가 넘 쎄서 나쁜의미로 충격이었는데규스지커리바에서 만회함근데 먹다보니 좀물리더라음료로 우롱차있었음 좋겠음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9044"
+    },
+    {
+      "postId": 9035,
+      "title": "사이쿄우 농후니쿠파이탄",
+      "publishedAt": "2026-08-06",
+      "restaurantNames": [
+        "사이쿄우"
+      ],
+      "body": "ㅈㄴㅈㄴㅈㄴ맛있었음 언급도 적고 사이쿄우에 큰 기대는 없었는데 진짜 기대이상나만 존나 맛있었나 ;; 후기가 별로 없어서 올려봄 먹어본 사람들 댓글좀 달아줘- dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9035"
+    },
+    {
+      "postId": 9026,
+      "title": "얘둘아... 나 많이 안먹어보긴했는데",
+      "publishedAt": "2026-08-05",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "오늘 울산 어쩌다보니 와서 타카노 먹었는데 이에케 자체는 2트 (아다는 맨타루 기본으로 잘먹었움)타카노는 첨이라서 무난 보보보 했거든? 왤케 짜냐? 멘야 토리모토 시오도 보통 염도 좀 있다해두 잘먹었는데 이에케라서 그",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9026"
+    },
+    {
+      "postId": 9022,
+      "title": "가솔린 - 니싱",
+      "publishedAt": "2026-08-05",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "세아부라(아부라소바) + 간마늘 추가 사실 사이멘 가려고했는데 덥다고들 하셔서 가솔린으로 ㅌㅌ해버렸습니다 엔초비프렛소 맛있게 드신분들은 이것도 괜찮으실 것 같네요 석박지가 참 맛있었는데 뭔가 국밥이나 곰탕류가 땡기네요.. 잘 먹었",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9022"
+    },
+    {
+      "postId": 9020,
+      "title": "일주일 면식 정산",
+      "publishedAt": "2026-08-05",
+      "restaurantNames": [
+        "사카나라멘",
+        "카네다"
+      ],
+      "body": "사카나 진한도미담백하고 고소한 도미제로라멘 시오 정석적인 토리시오 카네다 삼치 사카나 도미가 생각나는 맛 사카나가 정갈하고 깔끔하다면 카네다 청탕은 무자비한 맛이 있다 카네다 이에케 인스타에 육수 좋다는 글 올라오면",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9020"
+    },
+    {
+      "postId": 9014,
+      "title": "사이멘 토리파이탄",
+      "publishedAt": "2026-08-05",
+      "restaurantNames": [
+        "멘초비"
+      ],
+      "body": "부산에 토리시오는 멘초비를 포함해서 괜찮게하는 집이 많다고 생각해서 파이탄시킴아 진짜 괜찮았음 원래 위치가 애매해서 별로면 다음엔 못오겠다싶었는데 이 맛이면 자주 찾아올거같음 먼저 스프가 되게 진하고 향도 강했는데 이",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9014"
+    },
+    {
+      "postId": 9006,
+      "title": "시청 찬찬",
+      "publishedAt": "2026-08-05",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "맛은 평범시스템이 근데 너무 불편하네밥먹는데 모르는사람이랑 합석해야되는게 이해 불가직장이 시청쪽인데토리모토 가련다..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9006"
+    },
+    {
+      "postId": 9005,
+      "title": "게이들아 가솔린왓다",
+      "publishedAt": "2026-08-05",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "니싱 빠이타~~가솔린은 실패가업네 ㅋㅋ농도좋고잘묵고간다이기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=9005"
+    },
+    {
+      "postId": 8987,
+      "title": "테우치멘 야키칼국수 존나맛있네…",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "이걸 왜 이제 알았을까사골 없어서 아쉽긴했는데 이거만해도 개맛있으,,덴푸라도 ㅆㅅㅌㅊ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8987"
+    },
+    {
+      "postId": 8986,
+      "title": "가솔린 태권돈코츠 개맛있네",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "굉장히 직관적으로 맛있네... 또올듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8986"
+    },
+    {
+      "postId": 8985,
+      "title": "가솔린후기",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "말그대로 돈코츠 쇼유인데산미가 너무 쎄더라이렇게 산미 있는 라멘은 첨 먹어봐서적응이 안됐음 ㅠ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8985"
+    },
+    {
+      "postId": 8984,
+      "title": "찬찬라멘 아부라소바 후기-",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "카네다"
+      ],
+      "body": "사진은 아부라(아부라소바)소바에 무료밥 주문한것맛이 참 미묘했었는데면은 수제비 얇은걸 씹는듯한 식감이었고양념은 카네다 특유의 츠케멘 지루가 염도 많이 빠진 맛에다시마식초를 뿌려도 감칠맛이 올라오지 않고 느끼함만 잡힘면만 먹다보면",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8984"
+    },
+    {
+      "postId": 8979,
+      "title": "서면 가솔린 태권돈코츠",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "가격 : 만 원후기 : 신메뉴 태권돈코츠입니다. 무난무난 + 밥 한공기 뚝딱 , 김이 너무 맛있음 추가 할걸..모든 메뉴 저점이 이정도로 보장되는데 만원? 그냥 딱히 생각나는거 없으면 가시면됩니다.서면역에서 좀 걸어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8979"
+    },
+    {
+      "postId": 8976,
+      "title": "대구 첫 일정 라츠라멘 츠케멘",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "사이쿄우"
+      ],
+      "body": "라츠라멘 츠케멘 면추가 많은 라멘집을 갈 수 없기에 대구 추천받은 라멘집만 갈거라 기준을 높게 잡았음에도 만족스러웠다. 지루 점도나 어분 과한 느낌없이 맛있고 좋다. 면도 좋음.(갠적으로는 사이쿄우가 면은 좀 더 맛있",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8976"
+    },
+    {
+      "postId": 8973,
+      "title": "일~화 4라후기",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "규스지커리바",
+        "나의피는라멘으로되어있어"
+      ],
+      "body": "규스지-교카이 지로일요일 저녁 갑자기 급땡겨서 먹으러갔음 주문은 세아부라(아부라소바)만 추가 교카이맛은 나피라보다 약하기는한데 확실히 라멘 수준자체가 나피라 지로보다 높음 스프가 엄청 진하지는 않은데 밸런스가 진짜 좋은거 같음 챠",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8973"
+    },
+    {
+      "postId": 8972,
+      "title": "가솔린후기~",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "가솔린앤로지스",
+        "라멘유메"
+      ],
+      "body": "무슨 가라였는데 엄청 농도가쎄더라 옛날에 응암에 있는 맛스구 먹던느낌임 먹을수록 어분이 쎄게 느껴져서 밥이랑 먹는건 힘들었구 면은 맛있더랑 멘마도 굿근데 원래 청탕 먹으려다가 유메 휴무라서 어쩔수없이 간거라 빡세서 다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8972"
+    },
+    {
+      "postId": 8961,
+      "title": "사카나 후기와 여러 정보",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "돌고돌아 진돔(진한도미시오라멘) 갤에 후기만 안올렸을 뿐, 여전히 최소 주에 한두 번은 가는듯 근데 오늘 어째 가라아게 양이 좀 많다…ㅋㅋㅋ항상 뭘 많이 챙겨주셔서 감사할 따름이다각 피스 크기도 비정상적으로 크다이걸 기대하고 가지는 않",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8961"
+    },
+    {
+      "postId": 8956,
+      "title": "멘야토리모토 시오",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "탸마고 너무 맛있었음돼지차슈 2 닭차슈1 양파 멘마 파채 타마고이금액에 혜자네닭맛이나 치유층까지 매우 만족아쉬운 평 많길래 가봣는데맛있는 닭라멘 한그릇 이었음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8956"
+    },
+    {
+      "postId": 8952,
+      "title": "테우치멘 이토 순창 텍사스멘, 미소 까르보 칼국수",
+      "publishedAt": "2026-08-04",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "순창 텍사스멘 (12,000), 짜게미소 카르보 칼국수 (13,000)순창 - 이름만 봤을 땐 고추장 맛이 지배적일 것 같았는데고추장 향은 은은했고 전체적으로 꽤 자극적이면서 매콤한 비빔면이었음기본 토핑으로 계란후라이",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8952"
+    },
+    {
+      "postId": 8944,
+      "title": "가솔린 니싱파이터",
+      "publishedAt": "2026-08-03",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "마늘이랑 세아부라(아부라소바) 추가진짜 생선향 찐하니 맛있고 가솔린은 역시 양많음청어를 별로 안묵어봐서 원래 이런맛인가 싶은데 뭔가 자기주장 강한 향이 올라오는게 난 좋았음진짜 밥말묵 할때 배불러도 계속 술술 들어가드라석박지가 시",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8944"
+    },
+    {
+      "postId": 8943,
+      "title": "대구 라붕이 부산 간김에 가솔린 갔는데",
+      "publishedAt": "2026-08-03",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "청어어쩌고 라멘 조온나 맛있더라 진짜대구에서 주류인 쇼군 파쿠리 라멘들의 거기서 거기인 맛에좀 질렸는데 오랜만에 완전 새로운 라멘 먹으니 정신이 번쩍듦라멘중에 물고기가 직접적으로 맛을 내는건 내가 먹어본 선에선 츠케멘",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8943"
+    },
+    {
+      "postId": 8942,
+      "title": "라멘도란스 중화소바 2회차",
+      "publishedAt": "2026-08-03",
+      "restaurantNames": [
+        "중화소바지평"
+      ],
+      "body": "여전히 국물 깔끔하고 맛있음 멘마 꼬독꼬독하게 좋고 사장님 친절하고 그리고 이제 소문이 좀 난건지 평일인데도 웨이팅이 있었음 어제 일요일에는 재료소진으로 일찍 닫았던데 확실히 인기 많아진듯 - dc official",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8942"
+    },
+    {
+      "postId": 8940,
+      "title": "빠른 가솔린 후기",
+      "publishedAt": "2026-08-03",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "돼지 맛 잘나고 쇼유도 안 튀고 잘 어우러짐 이에케 팔았을 때가 좀 더 찐했던 것 같음. 술술 넘어가네. 만원에 이 맛에 웨이팅도 없고 시원하고 양도 많다. - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8940"
+    },
+    {
+      "postId": 8937,
+      "title": "찬찬 - 창케쇼유",
+      "publishedAt": "2026-08-03",
+      "restaurantNames": [
+        "카네다"
+      ],
+      "body": "어찌된게 같은메뉸데 카네다보다 찬찬이 더 맛있었네 가오픈때 갔는데 사장님도 계시더라 자리가 다찌석은 아니고 테이블석 4개(4좌석)+1인 테이블 1개 더라구 다음에는 시오에다가 볶음밥 먹어보고싶네.. 그나저나 왜 항상",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8937"
+    },
+    {
+      "postId": 8935,
+      "title": "오늘자 와루가키노",
+      "publishedAt": "2026-08-03",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "시오라멘집 근처에 찬찬 갈까 하다가단단한면이 먹고 싶어서 간만에 갔는데온도감 상당하고 맛 또한 좋았으나와루가키노 20번 넘게 갔지만오늘 면이 역대급으로 많이 삶아져서 나옴ㅜㅜ국수 먹는줄 아쉬움 흑흑",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8935"
+    },
+    {
+      "postId": 8924,
+      "title": "찬찬라멘 창케쇼유 후기-",
+      "publishedAt": "2026-08-03",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "맛이 중간에 빈다는 글을 봤었는데 개인적으로 그런건 못느꼈고모든면에서 아주 무난한 갈비탕맛 라멘토리모토는 2분거리인데도 잘안갔는데찬찬이 5분거리라도 이런맛이라 자주 방문해서 먹을듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8924"
+    },
+    {
+      "postId": 8923,
+      "title": "시청 찬찬라멘",
+      "publishedAt": "2026-08-03",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "조오오오오오오오오오온나 맛있음에어컨 빼고테우치 사골 버금가네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8923"
+    },
+    {
+      "postId": 8913,
+      "title": "추억 보정 들어간 구시대의 유물들",
+      "publishedAt": "2026-08-03",
+      "restaurantNames": [
+        "가솔린앤로지스",
+        "복동이네오지상",
+        "쿠지라스토랑"
+      ],
+      "body": "가솔린 4호점 이었던 우라늄엔사쿠라스 특선백탕, 블랙쇼유블랙쇼유는 내가 블랙쇼유를 좋아한다는 걸 알게 해줬고 특선백탕은 맛은 흐릿하지만 아 진짜 맛있고 알차게 잘 만들었다는 기억이 남음놀이터 시장 시절 복동이 진니시오",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8913"
+    },
+    {
+      "postId": 8907,
+      "title": "오늘자 가솔린",
+      "publishedAt": "2026-08-02",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "니싱시오세아부라(아부라소바)이제 옛날 추억보정되던 가솔린은 떠났다폭력적이고 혈관 막히는 헤비급으로 돌아왔다일행이랑 둘이서 앵간하면 세 네그릇 먹는 라멘 도모다찌인데세 그릇 진짜 존나 힘들게 먹음결론 다 맛있다 시오는 눈 높아서 기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8907"
+    },
+    {
+      "postId": 8905,
+      "title": "난 여전히 카네다 독고가 그립다",
+      "publishedAt": "2026-08-02",
+      "restaurantNames": [
+        "카네다"
+      ],
+      "body": "카네다 집에서 5분거리라 캐치테이블 보고 예약없을때마다 자주가는데 독고시절 코보레즈시랑 각종 메뉴들이 그립다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8905"
+    },
+    {
+      "postId": 8899,
+      "title": "부타갱스터 초행",
+      "publishedAt": "2026-08-02",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "초행인 가게에선 클래식을 주문하는 스타일 백탕 + 면 두꺼운거 + 차슈추가만 돼지국밥의 지역이라 그런지 육수가 어흐 전체적으로도 나쁘지 않았음 위치도 서면에서 여기 찍고 전포로 2호선 타기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8899"
+    },
+    {
+      "postId": 8896,
+      "title": "와루가키노아소비 - 카모 블랙 라멘 후기",
+      "publishedAt": "2026-08-02",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "삼겹 차슈 추가해서 먹었는데 요 근래 먹은 쇼유계열 중에 최고였다 또 먹고싶다 - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8896"
+    },
+    {
+      "postId": 8895,
+      "title": "지평메뉴 다먹어보기 도전중",
+      "publishedAt": "2026-08-02",
+      "restaurantNames": [
+        "중화소바지평"
+      ],
+      "body": "오늘은 카라이지로 시켰음뭔가 지로같지않은 느낌이라 아쉬운맛 굳이 일반지로 두고 이걸 시켜먹을 메리트가 없는느낌임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8895"
+    },
+    {
+      "postId": 8881,
+      "title": "카네다 교카이츠케멘 후기-",
+      "publishedAt": "2026-08-01",
+      "restaurantNames": [
+        "사이쿄우",
+        "카네다"
+      ],
+      "body": "염도 조금있는 무난무난한 츠케멘카네다에서 먹는다면 카니츠케멘이 더 나은것같고비슷한류로는 사이쿄우가 더 내취향인듯그럼에도 야간에 이정도 퀄리티의 라멘을 먹을수있는건 감사한 일이라 생각함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8881"
+    },
+    {
+      "postId": 8877,
+      "title": "사카나 - 참돔 송이 냉라멘",
+      "publishedAt": "2026-08-01",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "스프 한 숫갈 딱 떴는데 송이향이랑 참돔향이 싹 감기는게 입맛을 확 땡겼음 염도도 적당하고 적당한 감칠맛 차슈도 생각보다 잘 어울림 간 무도 잘 어울리고 오크라도 잘 어울렸다 참돔 사시미 작은거 두 피스도 숙성 잘되고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8877"
+    },
+    {
+      "postId": 8868,
+      "title": "테우치멘 이토 야키칼국수 매운맛+계란 추가",
+      "publishedAt": "2026-08-01",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "갤에서 누가 이 조합 추천해줘서 먹었는데 진짜 엄청나다 맵고 짜고 기름지고 고자극 퍼레이드임 엄청 맛있다 개추 - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8868"
+    },
+    {
+      "postId": 8866,
+      "title": "무카게야 꽃게시오라멘 후기-",
+      "publishedAt": "2026-08-01",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "게청탕을 먹어본게 사카나뿐이라 비교하자면 그것보다는 전체적으로 가벼운 맛임사카나가 맛있긴 했지만 농도나 염도가 너무 진해서 남김요건 적당히 게향 올라오고 기름층도 좀 있어서 무난하지만 심심하지 않았음왼쪽에 있는 게어묵",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8866"
+    },
+    {
+      "postId": 8863,
+      "title": "지평 이에케 2회차",
+      "publishedAt": "2026-08-01",
+      "restaurantNames": [
+        "중화소바지평"
+      ],
+      "body": "염도 기본 아부라(아부라소바) 많이 멘마 아지타마 추가뭔가 저번보다 돈코츠 비율이 낮아진거같은데 오히려 지금이 나은느낌지평의 이에케 폼이 상당히 괜찮은편이라 고정메뉴 해줬으면 함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8863"
+    },
+    {
+      "postId": 8862,
+      "title": "사카나 참돔송이 냉라멘",
+      "publishedAt": "2026-08-01",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "냉라멘 때깔 좋아보여서 바로 서면에서 웨이팅 걸고 방문했음일단 국물 먼저 먹었는데 사카나 특유의 육수맛이느껴지면서 뭔가 조금 미묘했음온도감이 완전 찬것도 그렇다고 미지근한것도 아니긴한데뭔가 이 온도감에 이런 육수맛이",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8862"
+    },
+    {
+      "postId": 8861,
+      "title": "라멘유메 4트 시오라멘",
+      "publishedAt": "2026-08-01",
+      "restaurantNames": [
+        "라멘유메"
+      ],
+      "body": "이제 그냥 시오 쇼유 땡기면 여기오는듯 이번엔 면 잘풀어짐 상태 굿 국물도 끝내줬다 근데 닭가슴살 차슈가 약간 덜 신선한 향이 났음 아쉽 시치미뿌리고 밥말아먹으니 배터지게 먹엇네 배가 작아서 그런지 ㅈㄴ배고픈거 아니면",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8861"
+    },
+    {
+      "postId": 8859,
+      "title": "테우치 사골 + 사카나 냉라멘 2라",
+      "publishedAt": "2026-08-01",
+      "restaurantNames": [
+        "사카나라멘",
+        "테우치멘이토"
+      ],
+      "body": "사골 시오 짜게갤에서 사골 추천이 왜그렇게 많은지 알겠더라진짜 개맛있었음.. 표현을 잘 못하겟네.. 꼭 먹어보시길깔끔하게 완뚝사카나 냉라멘인데.. 가격대비 아쉬움15000원이었는데 이 가격이면 차라리 맑돔(맑은도미시오라멘)이나 진돔(진한도미시오라멘)+",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8859"
+    },
+    {
+      "postId": 8856,
+      "title": "카네다 이에케",
+      "publishedAt": "2026-08-01",
+      "restaurantNames": [
+        "카네다"
+      ],
+      "body": "여기 이에케 먹을때마다 느끼지만 이에케라기보단 돈코츠쇼유에 가까운 느낌 그리고 얼갈이 ㅈㄴ 짜침",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8856"
+    },
+    {
+      "postId": 8850,
+      "title": "규스지커리바 - 지로라멘",
+      "publishedAt": "2026-07-31",
+      "restaurantNames": [
+        "규스지커리바"
+      ],
+      "body": "480 해치웠다 뭔가 도전과제 깬 느낌이라 기분좋네 한동안 지로는 쳐다도 안볼듯 ㅋㅋㅋㅋㅋ 오늘 차슈는 좀 질기더군요 ㅠ 확실히 날이 더워서 그런가 웨이팅은 없었네오",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8850"
+    },
+    {
+      "postId": 8849,
+      "title": "최근 먹은것들",
+      "publishedAt": "2026-07-31",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "시카나-농어 파이탄이건 최근이 아니긴한데.. 귀찮아서 미루다 한번에 씀 맛있었음 진하고 고소하고 개인적으로는 찌르는 간장보다는 사카나처럼 구수한쪽을 더 선호해서 매번 쇼유 이벤트 잘먹고있음 챠슈는 그냥 사카나 챠슈고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8849"
+    },
+    {
+      "postId": 8838,
+      "title": "부타갱스터 마싯다",
+      "publishedAt": "2026-07-31",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "국물까지 다 머금",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8838"
+    },
+    {
+      "postId": 8832,
+      "title": "사이쿄우 농후츠케멘",
+      "publishedAt": "2026-07-31",
+      "restaurantNames": [
+        "사이쿄우"
+      ],
+      "body": "오랜만에 왓는데엄청 괜찮아졌네 면은 원래 좋아했었구츠케지루 감칠맛 매우만족여기 라멘집중에는 제일 시원한듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8832"
+    },
+    {
+      "postId": 8829,
+      "title": "최근에 먹은 라멘들",
+      "publishedAt": "2026-07-31",
+      "restaurantNames": [
+        "나가하마만게츠",
+        "라멘유메",
+        "사카나라멘",
+        "와루가키노아소비",
+        "카네다"
+      ],
+      "body": "나가하마만게츠, 와루가키노아소비, 사카나, 카네다랑사진은 없는데 부타갱이랑 유메도 몇번 갔음나가하마는 솔직히 유명세에 걸맞은 맛이긴 했는데 그정도의 웨이팅과 정성을 쏟으면서 먹어야만 하냐?라고 물으면 선뜻 답하기는 어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8829"
+    },
+    {
+      "postId": 8815,
+      "title": "심야에 올리는 테우치 유메 카네다 후기",
+      "publishedAt": "2026-07-30",
+      "restaurantNames": [
+        "라멘유메",
+        "카네다",
+        "테우치멘이토"
+      ],
+      "body": "테우치멘 이토 - 통풍, 멸치다시? 이게 젤 유명한거 같아서 시켰어. 첫 테우치였는데 뭔가 좀 무난한 느낌? 멸치다시라해서 좀 기대했는데 진짜 칼국수 맛 나서 놀랐음;;; 물론 칼국수 집이긴 하다만 맛있었다. 좀 오래",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8815"
+    },
+    {
+      "postId": 8809,
+      "title": "유메 쇼유",
+      "publishedAt": "2026-07-30",
+      "restaurantNames": [
+        "라멘유메"
+      ],
+      "body": "어제 유메 뭐 먹을지 물어본 갤럼인데 고맙다 다들지금까지 청탕은 시오만 먹어봤는데 쇼유 이거 물건이더라솔직히 시코우에서 쇼유 먹어보고 좀 실망했었는데 생각 바뀜그리고 가장 말 많다고 생각한 멘마는 기대 이상이었고 면",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8809"
+    },
+    {
+      "postId": 8808,
+      "title": "가솔린 - 토리가라 니싱 파이터",
+      "publishedAt": "2026-07-30",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "10,000원 토핑 추가 없이 순정으로 먹구옴 엄청 끈적한 느낌일 줄 알았는데 그정돈 아님 첫 입에 오 염도가 제법 있다고 느낌 직관적으로 빡 치는 맛 청어는 경험이 거의 없어서 맛 표현이 맞는지 모르겠는데 느끼",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8808"
+    },
+    {
+      "postId": 8807,
+      "title": "쿠지라스토랑 아부라소바 먹어봤음(내 개인적 주관)",
+      "publishedAt": "2026-07-30",
+      "restaurantNames": [
+        "쿠지라멘",
+        "쿠지라스토랑"
+      ],
+      "body": "일단 맛 판단을 위해 제일 기본인 아부라(아부라소바)소바로 시켰고, 느낀 점은 맛은 있는데... 이게 참... 뭐라해야 하나오뎅 튀겨서 케첩 찍어먹으면 맛있지? 딱 그런 느낌이다. 정말 누구나 좋아할 맛이고 처음부터 끝까지 '맛'",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8807"
+    },
+    {
+      "postId": 8806,
+      "title": "해운대 쿠지라멘",
+      "publishedAt": "2026-07-30",
+      "restaurantNames": [
+        "쿠지라멘"
+      ],
+      "body": "블랙 아부라(아부라소바)소바 짜장면 같은 맛이라는 글 있더니 진짜 ㅋㅋ 블랙이 뭔가 싶어서 먹어봄",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8806"
+    },
+    {
+      "postId": 8803,
+      "title": "오랜만에 지커바",
+      "publishedAt": "2026-07-30",
+      "restaurantNames": [
+        "규스지커리바"
+      ],
+      "body": "규스지 커리바 라는 뜻 여전히 ㅆㅅㅌㅊ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8803"
+    },
+    {
+      "postId": 8799,
+      "title": "토리모토 콘스프파이탄",
+      "publishedAt": "2026-07-30",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "차슈추가짜게를 햇는데 별로 안짬 아마 콘스프향때문인거같기도 함아주 달달한 향이 나버려서 평소에 뭐 안뿌려먹는 파인데 후추좀 뿌려먹으면 괜찮더라그리고 너무 익숙한 맛이라 뭐지 하고 곰곰히 생각해보다가 렌게로 바닥을 슥",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8799"
+    },
+    {
+      "postId": 8798,
+      "title": "사카나 매멸, 매운멸치후기",
+      "publishedAt": "2026-07-30",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "멸치 비린맛 전혀없고 진하고 매콤하니 스프 개맛있음농도가 있다보니 국보다는 찌개느낌저기에 무랑 두부 넓적하게 썰어서 푹끓이면 극락일듯ㄹㅇ..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8798"
+    },
+    {
+      "postId": 8790,
+      "title": "지평은 왜 나랑 간이 안맞는거같지",
+      "publishedAt": "2026-07-30",
+      "restaurantNames": [
+        "중화소바지평"
+      ],
+      "body": "항상 숙주 다먹을때쯤 물리고 짜서 더 못먹겠음...지로계라 그런가- dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8790"
+    },
+    {
+      "postId": 8788,
+      "title": "와루가키노아소비 토종닭 오리 시오, 쇼유 파이탄",
+      "publishedAt": "2026-07-30",
+      "restaurantNames": [
+        "사카나라멘",
+        "와루가키노아소비"
+      ],
+      "body": "토종닭 오리 쇼유 파이탄 (15,000 +계란 1,500, 김 3장 1,000)토종닭 오리 시오 파이탄 (15,000)중복에 먹고 왔던 후기원래는 전 날 못 먹은 사카나 꽁치 먹으려다복날이라 닭이 더 땡겨서 와루가키로",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8788"
+    },
+    {
+      "postId": 8782,
+      "title": "2일동안 먹은 라멘들(총 8라)",
+      "publishedAt": "2026-07-29",
+      "restaurantNames": [
+        "카네다"
+      ],
+      "body": "카네다 - 짭라이라이 일본에서 먹었던 돼지 청탕이랑 비슷한 맛이었음. (라이라이 말고 다른 돼지 청탕집이었어) 첫 카네다였는데 상당히 괜찮더라. 특히 돼지 청탕은 부산에서 하는 곳이 많지 않은 것 같던데 이거 먹으러",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8782"
+    },
+    {
+      "postId": 8780,
+      "title": "카네다 이에케 후기-",
+      "publishedAt": "2026-07-29",
+      "restaurantNames": [
+        "카네다"
+      ],
+      "body": "기존 카네다에서 느껴지는 많이 우린 돈골의 탁한 맛은 사라졌음전반적으로 부타갱의 농후돈코츠에 쇼유를 추가한듯한 맛이 느껴짐예전에는 아쉬운부분이 꽤 있었고 이번에 늬앙스가 좀 바뀌긴 했지만 만족스런 맛",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8780"
+    },
+    {
+      "postId": 8778,
+      "title": "규스지 교카이지로",
+      "publishedAt": "2026-07-29",
+      "restaurantNames": [
+        "규스지커리바"
+      ],
+      "body": "면 양 기본, 세아부라(아부라소바) 많이, 숙주 절반배가 별로 안고파서 숙주 반만 부탁드렸음.벽걸이에어컨 3대인가 걸려있는데도 좀 덥더라. 경사진 곳에 있어서 오는길에 땀나서 그런듯.여전히 맛있고 염도도 적당했음. 확실히 이젠 차",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8778"
+    },
+    {
+      "postId": 8775,
+      "title": "가솔린 청어 머시기 개맛있음",
+      "publishedAt": "2026-07-29",
+      "restaurantNames": [
+        "가솔린앤로지스",
+        "나의피는라멘으로되어있어",
+        "테우치멘이토"
+      ],
+      "body": "사진은 없음 다른 후기 참고걍 직관적으로 맛있음테우치 사장이 20-21년도에 나피라 자리에서 장사할 때 팔았던 츠케멘 생각남 그때도 청어 썼다던 거 같기도 함그냥 츠케지루를 부어서 먹는 듯한 농도면도 다른 집 돈주고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8775"
+    },
+    {
+      "postId": 8774,
+      "title": "가솔린 토리가라 니싱 파이터",
+      "publishedAt": "2026-07-29",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "가솔린 자체를 처음 가보는데 옛날에 여기 대창 덮밥 팔던 곳이었는데 여기가 가솔린이 됐구나 ㅋㅋㅋㅋ토리가라 니싱 파이터 10,000차슈 추가 2,000세아부라(아부라소바) 추가 500간마늘 추가 무료존나 맛있고 너무 내스타일임 생",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8774"
+    },
+    {
+      "postId": 8773,
+      "title": "밑에 후기보고 유메 시오 다녀온 후기",
+      "publishedAt": "2026-07-29",
+      "restaurantNames": [
+        "라멘유메"
+      ],
+      "body": "대존맛",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8773"
+    },
+    {
+      "postId": 8772,
+      "title": "멘제이텐 미소 돈코츠 근데 이제 좀 조려버린",
+      "publishedAt": "2026-07-29",
+      "restaurantNames": [
+        "나의피는라멘으로되어있어"
+      ],
+      "body": "멘제이텐 처음 가봤는데 지릴뻔했다 내가 나피라지로 500을 좀 힘겹게 성공하는데 이건 더 힘들더라 양은 한그릇인데 농도가 지로 그 이상임 ㅋㅋ 걸쭉함이 그냥 물보다 된장이 많은 느낌 그래서 첨에 먹자마자 '우옷' 하면",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8772"
+    },
+    {
+      "postId": 8768,
+      "title": "월요일에 먹었던 테우치 사골",
+      "publishedAt": "2026-07-29",
+      "restaurantNames": [
+        "테우치멘이토"
+      ],
+      "body": "18시 이후는 먹기 어려울거라 했지만따로 엉업 종료한다는 소식이 없어서18시 20분쯤 갔는데 먹을수 있었음한달전쯤인가 테우치 처음으로 가는데 추천해달라고 했을때사골 추천해서 먹으러 갔는데 어제 팔던더 안팔아서곰탕으로",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8768"
+    },
+    {
+      "postId": 8761,
+      "title": "라멘유메 시오 처음 먹고옴 존나 맛있네 ㅅㅂ",
+      "publishedAt": "2026-07-28",
+      "restaurantNames": [
+        "라멘유메"
+      ],
+      "body": "내가 진짜 ㅅㅂ 웬만하면 다 먹은 사진은 안찍는데 아 존나맛잇다.. 매번 시오가 더 좋나 쇼유가 더 좋나 생각하고 있었는데 이번에 정했다 나는 시오가 더 맞다 거슬리던 맛 다 사라진 내가 딱 좋아하는 국물이었음 시오라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8761"
+    },
+    {
+      "postId": 8757,
+      "title": "난 왜 사이쿄우가 맛있지..?",
+      "publishedAt": "2026-07-28",
+      "restaurantNames": [
+        "사이쿄우"
+      ],
+      "body": "츠케멘 어분 빼고 전부 기본 이제 유입 3~4달차라 사실 츠케멘을 사이쿄우에서만 먹어봐서 우물도 아닌 웅덩이 속 모기 유충이긴한데.. 난 맛있음 ㅋㅋㅋㅋㅋ 면도 두껍고 쫄깃하고 차슈도 뭐 적당하고 스프도 추어탕 느낌나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8757"
+    },
+    {
+      "postId": 8750,
+      "title": "유메 쇼유",
+      "publishedAt": "2026-07-28",
+      "restaurantNames": [
+        "라멘유메",
+        "멘초비"
+      ],
+      "body": "위치가 특이하긴함쇼유 기본으로 시켰는데, 염도나 온도감이나 면 삶기나 딱 좋더라.향미유나 스프 맛으로 추측컨데 시오도 분명 맛있을듯.토핑들은 멘초비와 비슷한 맛이고, 전반적으로 상당히 만족스러운 한그릇이었음. 집에서",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8750"
+    },
+    {
+      "postId": 8746,
+      "title": "키무엔 니보시아부라",
+      "publishedAt": "2026-07-28",
+      "restaurantNames": [
+        "규스지커리바",
+        "라멘유메",
+        "쿠지라멘",
+        "키무엔"
+      ],
+      "body": "군대에~~~~서 누가돌아왔~~~게?4주만에 개같이 기어나와서 노포 내리자마자 키무엔으로 뛰어감토리돈+니보시아부라(아부라소바) 연식 vs 집앞 규스지 고민하다가니보시아부라(아부라소바) 먹고 유메 쇼유 가기로 결정쿠지계열은 뭐 다 검증된 맛이라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8746"
+    },
+    {
+      "postId": 8731,
+      "title": "카네다 삼치 시오 + 테우치 사골",
+      "publishedAt": "2026-07-27",
+      "restaurantNames": [
+        "사카나라멘",
+        "카네다",
+        "테우치멘이토"
+      ],
+      "body": "카네다 특유의 좋은 스프에 삼치 향미유가 잘 어울림. 맛있음. 또 먹게 된다면 처음부터 향미유 추가 요청할 것 같음. 양도 무난하게 괜찮음. 사카나 맑돔(맑은도미시오라멘)파는 출격 ㄱ 사골 쇼유 짜게 짜게로 시키니 쇼유맛 밖에 안남.",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8731"
+    },
+    {
+      "postId": 8730,
+      "title": "토리모토 토리파이탄 후기-",
+      "publishedAt": "2026-07-27",
+      "restaurantNames": [
+        "멘야토리모토"
+      ],
+      "body": "몇주전 토리파이탄 스프 좀 개선했다길래 오랜만에 먹어봄기존보다는 쪼끔 나아지긴 했는데 다른 토리파이탄 잘 뽑는 집이랑은 여전히 차이가 많이남여기는 그냥 청탕류 가까워서 먹는건 괜찮은데 멘지같이 조립식 보단 낫지만 여전",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8730"
+    },
+    {
+      "postId": 8728,
+      "title": "아부라클럽 창케쇼유",
+      "publishedAt": "2026-07-27",
+      "restaurantNames": [
+        "아부라클럽"
+      ],
+      "body": "구라안치고 국내 창케중에 제일 맛있음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8728"
+    },
+    {
+      "postId": 8715,
+      "title": "와루가키 토종닭시오파이탄",
+      "publishedAt": "2026-07-27",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "강알리 푸키먼땜시 7.25에 감엄청 농축하셧다 하셨는데 진짜 엄청 찐하더라 쩍쩍 달라붙는 느낌삼겹 차슈도 추가햇는데 훈연향 좋더라 오리가슴 차슈도 안질기고 굳굳버스에서 내려서 민락시장 지나서 갔는데 그늘져서 땀이 많이",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8715"
+    },
+    {
+      "postId": 8709,
+      "title": "가솔린 청어",
+      "publishedAt": "2026-07-26",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "후기들 왜 비리다는지 또 안 비리다는지 알 것 같음 걍 청어가 이 맛임. 앤초비나 토리가나 돈코츠파이터는 복합적인 맛이라면 이건 딱 청어청어해서 좋았음 꾸덕하이 청어구이 좋아하면 만족할거임 청어구이 비리다고 생각하면",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8709"
+    },
+    {
+      "postId": 8700,
+      "title": "와루가키 심야 블랙쇼가",
+      "publishedAt": "2026-07-26",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "저번 참나물은 살짝 쇼유가 죽는 느낌이긴 했는데이건 달짝지근한 쇼유향이 잘난듯쇼가도 간마늘처럼 깔려있는데 은은한 향이 좋았다차슈도 맛있고육수만 먹으면 염도가 꽤있는데면이나 차슈 멘마랑 같이먹으니 적당한 느낌개열받는건",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8700"
+    },
+    {
+      "postId": 8698,
+      "title": "오랜만에 규스지",
+      "publishedAt": "2026-07-26",
+      "restaurantNames": [
+        "규스지커리바"
+      ],
+      "body": "기본 염도가 더 떨어진듯한 느낌 친구 데꼬갔는데 잘먹음 근데 가게 안이 아주 살짝 더워서 난 괜찮았는데 친구 살짝 더워하던",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8698"
+    },
+    {
+      "postId": 8697,
+      "title": "혈중 지로농도를 높이기 위한 지평",
+      "publishedAt": "2026-07-26",
+      "restaurantNames": [
+        "중화소바지평"
+      ],
+      "body": "아지타마에 멘마 추가해서 12500원지로계 옛날엔 너프좀 쎄게 당했던거같은데 폼이 돌아오는거 같기도하고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8697"
+    },
+    {
+      "postId": 8696,
+      "title": "와루가키 파이탄 존맛",
+      "publishedAt": "2026-07-26",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "시오로 먹었는데 겁나 찐한 삼계탕 먹는 느낌오리가 ㄹㅈㄷ다이어트한다고 라멘 2달만에 먹었는데 좀 짜긴하더라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8696"
+    },
+    {
+      "postId": 8692,
+      "title": "가솔린 복날 메뉴",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "염도 딱히 안높고 맛있는 삼계탕면 먹는 느낌 가격 좋고 맛있네요 - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8692"
+    },
+    {
+      "postId": 8686,
+      "title": "게이들아 부갱왓다간다",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "브레이크타임 끝나자마자 바로 기어들어갓다농후돈코츠(13000) 먹었고다른점기존쇼유돈코츠에 10%강한맛 계란 1개 차슈막 존나게 뻑뻑하고 그런건아닌데 농도가 올라갓다반쯤먹고 후추듬뿍에 식초 3-4방울 넣어먹길 추천한다한",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8686"
+    },
+    {
+      "postId": 8684,
+      "title": "사이쿄우 중복 이벤트",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "사이쿄우"
+      ],
+      "body": "올해 지금까지 라멘 약 100그릇정도 먹은거 같은데 단연코 최악의 라멘 장각은 수비드했다는데 미친듯이 퍽퍽함 단무지 없으면 못먹을정도 수비드한걸 겉만 지지니까 차가움 간도 거의 안되어있음 장각이 부피가 크니까 그 만큼",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8684"
+    },
+    {
+      "postId": 8683,
+      "title": "사카나 꽁치",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "사카나라멘"
+      ],
+      "body": "오늘 브레이크타임도 없는데 소량 남아있대서 바로 달려감 향이 별로 안 난다길래 그럴리가 했는데 잘 나고 맛있음 참나물 많아서 참 좋다 꽁치도 정말 맛있다 웨이팅없는 사카나 행복하다 - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8683"
+    },
+    {
+      "postId": 8681,
+      "title": "와루가키노아소비 - 토종닭 오리 쇼유파이탄",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "토종닭 오리 쇼유파이탄 15,000원돼지 차슈 토핑 추가 + 3,000원제로콜라 뚱캔 2,000원공기밥 1,000원합 21,000원진하고 맛있는 파이탄이었음면 삶기는 보통에서 조금 부드러운 정도였는데개인적 취향으론 좀",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8681"
+    },
+    {
+      "postId": 8680,
+      "title": "부타갱스터 농후 돈코츠",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "염도 라오타기준 충분하고 면이나 일반 차슈는 무난했는데 삼겹차슈가 ㄹㅇ 도라이급으로 맛있었음근데 솔직히 다시 먹을거냐?하면 그건좀.. 나는 청탕파인가봐잘 먹었습니닷",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8680"
+    },
+    {
+      "postId": 8678,
+      "title": "가솔린 닭",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "맛으론 깔게없음에어컨 냉방한거 맞나 ㅈㄴ더움",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8678"
+    },
+    {
+      "postId": 8675,
+      "title": "부타갱 부타갱스터(농후돈코츠) 후기-",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "이에케기준으로 조금 더 기름지고 염도는 평범 감칠맛은 좀 낮은맛그렇기에 먹다가 다시마식초를 뿌려도 잘어울림기본 13000에 면추가 1000 밥추가 500해서 14500으로 가격은 좀 비싼편그래도 이에케 좋아하는 내 입",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8675"
+    },
+    {
+      "postId": 8674,
+      "title": "가솔린 - 특선 보양 닭국수",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "전반적으로 좀 마일드하네요 가격은 10,500 원 옵션은 챠슈 추가 밖에 없더군요 튀긴 마늘이 잘 어울려서 추가할 수 있었으면 좋겠다는 생각이 들었습니다 밥 시키니깐 리필도 해주신다는데 제가 방문했을때 사람이 별로 없",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8674"
+    },
+    {
+      "postId": 8671,
+      "title": "사이쿄우 중복 이벤트메누",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "사이쿄우"
+      ],
+      "body": "14500중복이니 몸보신 겸 닭이 들어간 스프와 닭다리를 뜯고 싶다 ? ㄱㄱ맛있는 라멘을 먹고 싶다 ? ㄴㄴ스프가 일단 염도가 너무 낮아서 싱거움. 싱거워서 진한 담백함이 느끼함으로 돌아오게 됨. 닭 육수인 건 알겠는",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8671"
+    },
+    {
+      "postId": 8670,
+      "title": "리틀훅 고등어라멘",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "키무엔"
+      ],
+      "body": "생선베이스 라멘 자체를 처음 먹었는데 비린맛은 생각보다 없는데 특유의 생선맛 느껴지는게 좋았음중간쯤 물릴거같을때 청경채가 괜찮더라키무엔 먹고 2차인데다가 묵직한건 이제 잘 못먹어서 국물까지는 못먹은게 아쉽다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8670"
+    },
+    {
+      "postId": 8668,
+      "title": "부갱 농돈 진짜 개맛있네",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "부타갱스터"
+      ],
+      "body": "스프 첫술 떠서 먹어보니 드는 느낌은 굉장히 염도 높은 이에케 먹는 느낌도 나는데 크게 거부감 드는 정도는 아님밥까지 말아서 완라했네.. 진짜 개맛있다 ㄹㅇ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8668"
+    },
+    {
+      "postId": 8666,
+      "title": "와루가키 토종닭오리쇼유파이탄",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "와루가키노아소비"
+      ],
+      "body": "걍 좃댑니다 와 - dc official App",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8666"
+    },
+    {
+      "postId": 8664,
+      "title": "키무엔 토리톤파이탄",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "키무엔"
+      ],
+      "body": "어제 시오 먹고 파이탄 못먹은거 아쉬워서 한번더감오픈런했는데도 웨이팅 있어서 좀 기다린듯 토리톤파이탄은 처음 먹는데 닭육수가 돈코츠랑도 다르고 되게 맛있는듯호불호도 덜갈릴거같더라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8664"
+    },
+    {
+      "postId": 8657,
+      "title": "가솔린 니싱 후기",
+      "publishedAt": "2026-07-25",
+      "restaurantNames": [
+        "가솔린앤로지스"
+      ],
+      "body": "맛있더라 첫입은 엔쵸비범벅 먹었을때랑 비슷한 임펙트였음 비린맛보단 생선자체의 농축된맛이 많이 느껴진다고 봐야겠음 닭맛은 잘 모르겠음 아쉬운건 김이 있었다면 더욱 맛있게 먹었을가같단 생각이 들었음 그리고 범벅땐 야채볶",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=8657"
+    }
+  ]
+}

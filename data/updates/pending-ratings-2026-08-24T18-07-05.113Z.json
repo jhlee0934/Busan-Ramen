@@ -1,0 +1,704 @@
+{
+  "createdAt": "2026-08-24T18:07:05.113Z",
+  "calculationVersion": "rolling-31-days-keyword-v1",
+  "range": {
+    "from": "2026-07-24T18:05:17.601Z",
+    "to": "2026-08-24T18:05:17.601Z"
+  },
+  "collectionWindowDays": 31,
+  "sourceReviewCount": 234,
+  "provisional": true,
+  "caveat": "키워드 기반 잠정 분류이며 문맥, 반어, 여러 매장 비교를 사람이 검수해야 한다.",
+  "rules": {
+    "high": "긍정 2건 이상이며 부정·혼합 없음",
+    "medium": "긍정 1건 이상 또는 중립 2건 이상이며 부정·혼합 없음",
+    "low": "부정·혼합 1건 이상, 또는 긍정 근거 부족",
+    "unrated": "수집 기간 내 연결된 후기 없음"
+  },
+  "ratings": [
+    {
+      "name": "가솔린앤로지스",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9709,
+        9626,
+        9608,
+        9584,
+        9439,
+        9315,
+        9272,
+        9248,
+        9245,
+        9216,
+        9204,
+        9096,
+        9089,
+        9022,
+        8986,
+        8979,
+        8972,
+        8943,
+        8913,
+        8907,
+        8775,
+        8774,
+        8709,
+        8692
+      ],
+      "negativePostIds": [
+        9665,
+        9424,
+        8808,
+        8674
+      ],
+      "mixedPostIds": [
+        9712,
+        9700,
+        9309,
+        9295,
+        9177,
+        9150,
+        9098,
+        8944,
+        8657
+      ],
+      "neutralPostIds": [
+        9676,
+        9673,
+        9635,
+        9588,
+        9576,
+        9569,
+        9555,
+        9525,
+        9243,
+        9212,
+        9186,
+        9185,
+        9097,
+        9005,
+        8985,
+        8940,
+        8678
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "규스지커리바",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9552,
+        9327,
+        9133,
+        8698
+      ],
+      "negativePostIds": [],
+      "mixedPostIds": [
+        9044,
+        8778
+      ],
+      "neutralPostIds": [
+        9143,
+        8973,
+        8850,
+        8803,
+        8746
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "나가하마만게츠",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [
+        8829
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "나의피는라멘으로되어있어",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9702,
+        8775
+      ],
+      "negativePostIds": [
+        9318
+      ],
+      "mixedPostIds": [],
+      "neutralPostIds": [
+        9479,
+        9268,
+        8973,
+        8772
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "라멘유메",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9608,
+        9521,
+        9281,
+        9096,
+        8972,
+        8815,
+        8773,
+        8761,
+        8750
+      ],
+      "negativePostIds": [
+        9703,
+        8861,
+        8809
+      ],
+      "mixedPostIds": [
+        9616,
+        9507
+      ],
+      "neutralPostIds": [
+        9329,
+        9060,
+        8829,
+        8746
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "로지라멘스탠드",
+      "score": 0,
+      "tier": "unrated",
+      "positivePostIds": [],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "멘야토리모토",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9524,
+        9286,
+        9026
+      ],
+      "negativePostIds": [
+        9316,
+        8799
+      ],
+      "mixedPostIds": [
+        8956
+      ],
+      "neutralPostIds": [
+        9425,
+        9325,
+        9276,
+        9246,
+        9006,
+        8924,
+        8730
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "멘즈키",
+      "score": 0,
+      "tier": "unrated",
+      "positivePostIds": [],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "멘초비",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9696,
+        9127,
+        8750
+      ],
+      "negativePostIds": [
+        9703,
+        9014
+      ],
+      "mixedPostIds": [],
+      "neutralPostIds": [
+        9667,
+        9418
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "복동이네오지상",
+      "score": 5,
+      "tier": "high",
+      "positivePostIds": [
+        9572,
+        8913
+      ],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "부타갱스터",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9729,
+        9151,
+        9059,
+        8686,
+        8680,
+        8668
+      ],
+      "negativePostIds": [],
+      "mixedPostIds": [
+        9385
+      ],
+      "neutralPostIds": [
+        9567,
+        9554,
+        9543,
+        9394,
+        9381,
+        9368,
+        9308,
+        8899,
+        8838,
+        8675
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "사이쿄우",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9585,
+        9557,
+        9552,
+        8976,
+        8832,
+        8757
+      ],
+      "negativePostIds": [
+        9675,
+        9280,
+        8684
+      ],
+      "mixedPostIds": [
+        9378,
+        9035,
+        8671
+      ],
+      "neutralPostIds": [
+        8881
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "사카나라멘",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9704,
+        9669,
+        9668,
+        9661,
+        9581,
+        9416,
+        9102,
+        9088,
+        9087,
+        9085,
+        9082,
+        8866,
+        8849,
+        8798,
+        8731
+      ],
+      "negativePostIds": [
+        9672,
+        9653,
+        8788
+      ],
+      "mixedPostIds": [
+        8859,
+        8683
+      ],
+      "neutralPostIds": [
+        9667,
+        9660,
+        9305,
+        9020,
+        8961,
+        8877,
+        8862,
+        8829
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "숏타임푸드빠",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [
+        9549
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "아부라클럽",
+      "score": 5,
+      "tier": "high",
+      "positivePostIds": [
+        9743,
+        9524,
+        8728
+      ],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [
+        9449
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "와루가키노아소비",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9669,
+        9631,
+        9556,
+        9392,
+        8896,
+        8700,
+        8696,
+        8681
+      ],
+      "negativePostIds": [
+        9671,
+        8788
+      ],
+      "mixedPostIds": [
+        9574,
+        9385,
+        8935
+      ],
+      "neutralPostIds": [
+        9667,
+        9525,
+        9461,
+        9395,
+        9388,
+        9375,
+        9253,
+        8829,
+        8715,
+        8666
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "중화소바지평",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        8942
+      ],
+      "negativePostIds": [
+        9319,
+        8895,
+        8790
+      ],
+      "mixedPostIds": [],
+      "neutralPostIds": [
+        9479,
+        9473,
+        9420,
+        9284,
+        8863,
+        8697
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "카네다",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9524,
+        9263,
+        8937,
+        8815,
+        8731
+      ],
+      "negativePostIds": [
+        9490,
+        9428,
+        8984,
+        8856
+      ],
+      "mixedPostIds": [
+        8780
+      ],
+      "neutralPostIds": [
+        9610,
+        9525,
+        9523,
+        9479,
+        9329,
+        9020,
+        8905,
+        8881,
+        8829,
+        8782
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "코코노카",
+      "score": 0,
+      "tier": "unrated",
+      "positivePostIds": [],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "쿠지라멘",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9557,
+        9067,
+        8807
+      ],
+      "negativePostIds": [
+        9658,
+        9148
+      ],
+      "mixedPostIds": [
+        9501,
+        9292
+      ],
+      "neutralPostIds": [
+        9582,
+        9278,
+        8806,
+        8746
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "쿠지라스토랑",
+      "score": 5,
+      "tier": "high",
+      "positivePostIds": [
+        9067,
+        8913,
+        8807
+      ],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "키무엔",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9469
+      ],
+      "negativePostIds": [
+        9570
+      ],
+      "mixedPostIds": [
+        9501,
+        8670,
+        8664
+      ],
+      "neutralPostIds": [
+        9137,
+        8746
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "타라코소바",
+      "score": 0,
+      "tier": "unrated",
+      "positivePostIds": [],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "테우치멘이토",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [
+        9734,
+        9730,
+        9719,
+        9568,
+        9521,
+        9470,
+        9462,
+        9416,
+        9382,
+        9374,
+        9358,
+        8923,
+        8868,
+        8815,
+        8775,
+        8768,
+        8731
+      ],
+      "negativePostIds": [
+        9471
+      ],
+      "mixedPostIds": [
+        9649,
+        9507,
+        9504,
+        9385,
+        9372,
+        8987,
+        8859
+      ],
+      "neutralPostIds": [
+        9673,
+        9610,
+        9554,
+        9520,
+        9391,
+        9381,
+        9368,
+        8952
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "펀치",
+      "score": 2,
+      "tier": "low",
+      "positivePostIds": [],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [
+        9580
+      ],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    },
+    {
+      "name": "충칭소면관",
+      "score": 0,
+      "tier": "unrated",
+      "positivePostIds": [],
+      "negativePostIds": [],
+      "mixedPostIds": [],
+      "neutralPostIds": [],
+      "provisional": true,
+      "classificationMethod": "keyword-rules-v1",
+      "mapInclusion": true,
+      "geocodingStatus": "pending"
+    }
+  ]
+}

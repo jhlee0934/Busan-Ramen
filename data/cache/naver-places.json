@@ -1,0 +1,115 @@
+{
+  "로지라멘스탠드": {
+    "checkedAt": "2026-08-24T16:28:31.177Z",
+    "result": null
+  },
+  "나가하마만게츠": {
+    "checkedAt": "2026-08-24T16:28:31.179Z",
+    "result": null
+  },
+  "카네다": {
+    "checkedAt": "2026-08-24T16:28:43.850Z",
+    "result": {
+      "placeId": "1511119338",
+      "name": "카네다",
+      "address": "부산광역시 부산진구 동성로30번길 5 1층",
+      "coordinates": {
+        "lat": 35.1531617,
+        "lng": 129.0686503
+      },
+      "naverPlaceUrl": "https://m.place.naver.com/place/1511119338/home"
+    }
+  },
+  "가솔린앤로지스": {
+    "checkedAt": "2026-08-24T16:28:59.624Z",
+    "result": null
+  },
+  "규스지커리바": {
+    "checkedAt": "2026-08-24T16:28:59.665Z",
+    "result": null
+  },
+  "나의피는라멘으로되어있어": {
+    "checkedAt": "2026-08-24T16:28:59.667Z",
+    "result": null
+  },
+  "라멘유메": {
+    "checkedAt": "2026-08-24T16:28:59.671Z",
+    "result": null
+  },
+  "멘야토리모토": {
+    "checkedAt": "2026-08-24T16:29:03.634Z",
+    "result": null
+  },
+  "멘즈키": {
+    "checkedAt": "2026-08-24T16:29:03.677Z",
+    "result": null
+  },
+  "멘초비": {
+    "checkedAt": "2026-08-24T16:29:03.678Z",
+    "result": null
+  },
+  "복동이네오지상": {
+    "checkedAt": "2026-08-24T16:29:03.680Z",
+    "result": null
+  },
+  "부타갱스터": {
+    "checkedAt": "2026-08-24T16:29:07.650Z",
+    "result": null
+  },
+  "사이쿄우": {
+    "checkedAt": "2026-08-24T16:29:07.678Z",
+    "result": null
+  },
+  "사카나라멘": {
+    "checkedAt": "2026-08-24T16:29:07.681Z",
+    "result": null
+  },
+  "숏타임푸드빠": {
+    "checkedAt": "2026-08-24T16:29:07.683Z",
+    "result": null
+  },
+  "아부라클럽": {
+    "checkedAt": "2026-08-24T16:29:11.659Z",
+    "result": null
+  },
+  "와루가키노아소비": {
+    "checkedAt": "2026-08-24T16:29:11.683Z",
+    "result": null
+  },
+  "중화소바지평": {
+    "checkedAt": "2026-08-24T16:29:11.685Z",
+    "result": null
+  },
+  "코코노카": {
+    "checkedAt": "2026-08-24T16:29:11.689Z",
+    "result": null
+  },
+  "쿠지라멘": {
+    "checkedAt": "2026-08-24T16:29:15.662Z",
+    "result": null
+  },
+  "쿠지라스토랑": {
+    "checkedAt": "2026-08-24T16:29:15.690Z",
+    "result": null
+  },
+  "키무엔": {
+    "checkedAt": "2026-08-24T16:29:15.691Z",
+    "result": null
+  },
+  "타라코소바": {
+    "checkedAt": "2026-08-24T16:29:15.692Z",
+    "result": null
+  },
+  "테우치멘이토": {
+    "checkedAt": "2026-08-24T16:29:19.666Z",
+    "result": null
+  },
+  "펀치": {
+    "checkedAt": "2026-08-24T16:29:19.694Z",
+    "result": null
+  },
+  "충칭소면관": {
+    "checkedAt": "2026-08-24T16:29:19.694Z",
+    "result": null
+  }
+}

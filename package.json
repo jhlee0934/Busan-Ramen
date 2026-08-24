@@ -5,17 +5,34 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "server": "node --env-file=.env server/index.mjs",
+    "data:update": "node --env-file=.env server/run-update.mjs",
+    "data:apply-update": "node server/apply-update-draft.mjs",
+    "data:sync-candidates": "node server/sync-community-candidates.mjs",
+    "data:collect-reviews": "node server/collect-gallery-reviews.mjs",
+    "data:classify-reviews": "node server/classify-community-reviews.mjs",
+    "data:apply-review-summaries": "node server/apply-reviewed-summaries.mjs",
+    "data:verify-locations": "node --env-file=.env server/verify-known-locations.mjs",
+    "data:sync-naver-menus": "node server/sync-naver-place-menus.mjs",
+    "data:categorize": "node server/categorize-restaurants.mjs",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "test": "vitest run --passWithNoTests",
+    "test": "vitest run --passWithNoTests --exclude tests/e2e/**",
+    "test:e2e": "npm run build && playwright test",
+    "verify:release": "npm run lint && npm test && npm run build && npm run test:e2e",
     "lint": "eslint ."
   },
   "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "openai": "^7.5.0",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
+    "@playwright/test": "^1.62.1",
     "@types/node": "^24.3.0",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",

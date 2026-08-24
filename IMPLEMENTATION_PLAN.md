@@ -29,6 +29,9 @@ start successfully.
 
 ## 2. Define and validate restaurant data
 
+**Status:** Completed on 2026-08-22. The published dataset is intentionally
+empty until stage 3 completes source-backed restaurant research.
+
 1. Create `src/features/restaurants/types.ts` with TypeScript types for the
    restaurant record, menu, map links, and source records.
 2. Define the required record fields: `id`, `name`, `area`, `address`,
@@ -43,15 +46,28 @@ start successfully.
    valid ISO dates, non-empty names and areas, positive menu prices, valid
    latitude/longitude ranges when coordinates exist, HTTPS source URLs, and at
    least two source records per restaurant.
-6. Add a data-loading module that parses the JSON once and returns either valid
+6. Define a separate `CommunityRating` model for candidate research data. It
+   must contain `score` (1-5), `tier` (`high`, `medium`, `low`, or `unrated`),
+   positive, negative, and neutral evidence post IDs, the calculation version,
+   and a `provisional` flag.
+7. Define map-candidate fields independently of published restaurant fields:
+   `mapInclusion`, `geocodingStatus`, `coordinates`, and `coordinateSource`.
+   Every qualified community candidate is map-included; a pin may render only
+   after valid coordinates and a coordinate source exist.
+8. Add a data-loading module that parses the JSON once and returns either valid
    records or a controlled data error.
-7. Write fixture data for component and filter tests separately from published
+9. Write fixture data for component and filter tests separately from published
    restaurant data.
 
 **Exit condition:** malformed restaurant JSON fails validation with a readable
 error, and valid fixture data loads without TypeScript or runtime errors.
 
 ## 3. Research and populate each restaurant record
+
+**Status:** In progress. One source-backed restaurant record was added on
+2026-08-22. Its Naver Map and Kakao Map search links still require manual
+browser verification because the automated research environment cannot open
+those map domains.
 
 1. Build a candidate list from identifiable local ramen-community discussions.
 2. For each candidate, locate an official channel, Naver Map listing, or Kakao
@@ -64,6 +80,15 @@ error, and valid fixture data loads without TypeScript or runtime errors.
 7. Exclude candidates lacking both recommendation evidence and current
    operational verification.
 8. Manually open every Naver and Kakao map URL before publishing the record.
+9. For every entry in `community-candidates.json`, resolve a physical location
+   from an official channel or map listing, record its coordinate source, and
+   set `geocodingStatus` to `verified`. Do not derive coordinates from a broad
+   district label or from a different branch.
+10. Classify each reviewed gallery mention as positive, negative, or neutral.
+    Store only post IDs and a short factual reason; do not copy post text.
+11. Calculate `communityRating` using the versioned rule in
+    `community-ratings.json`. Recalculate all candidates together whenever the
+    reviewed corpus changes.
 
 **Exit condition:** every published record has complete required fields, two
 traceable sources, working map links, and a verification date.
@@ -105,8 +130,20 @@ results, reset behavior, and each sort tie-breaker.
    `lastVerified`.
 6. Build an area-grouped route view from restaurant data. It must not claim
    travel duration or route accuracy without a routing data source.
-7. Implement loading, invalid-data, no-data, and no-results states.
-8. Use CSS grid/flex constraints that preserve card and control dimensions at
+7. Build the map layer from `community-candidates.json` joined with verified
+   coordinate data. Render one pin for every map-included candidate with
+   `geocodingStatus: verified`; list unresolved candidates in a visible
+   "location confirmation required" section rather than placing an approximate
+   pin.
+8. Apply pin color by `communityRating.tier`, using a fixed documented palette:
+   `high` dark green, `medium` amber, `low` gray, and `unrated` neutral outline.
+   The detail panel must repeat the tier as text, so color is not the sole
+   carrier of the rating.
+9. Open the candidate detail from a pin and show score, rating scope,
+   provisional status, evidence-post count, and source links. Do not describe
+   the score as a general customer rating.
+10. Implement loading, invalid-data, no-data, and no-results states.
+11. Use CSS grid/flex constraints that preserve card and control dimensions at
    360 px, 390 px, 430 px, and desktop widths.
 9. Use at least 44 px by 44 px interactive targets and visible keyboard focus
    indicators.
@@ -125,6 +162,8 @@ overlapping text at the required viewport widths.
 5. Associate visible form labels with search, filter, and sort controls.
 6. Announce result-count changes through an `aria-live` region.
 7. Verify text and control contrast against the chosen background colors.
+8. Provide a non-color pin legend and textual rating tier in every map-detail
+   view.
 
 **Exit condition:** keyboard-only navigation can search, filter, sort, open and
 close details, and activate map links; automated accessibility checks report no
@@ -143,6 +182,9 @@ critical violations.
    and external-link behavior in the production build.
 7. Re-run all map URLs and verify that each displayed volatile fact has a source
    and a current `lastVerified` date.
+8. Add tests for rating calculation, tier thresholds, color-token selection,
+   candidate-to-coordinate joins, duplicate-coordinate handling, and exclusion
+   of unresolved locations from map pins.
 
 **Exit condition:** all automated commands succeed, manual viewport checks pass,
 and no listing presents unverified values as facts.
@@ -159,6 +201,9 @@ and no listing presents unverified values as facts.
    change.
 5. Remove a restaurant from the published list when its operating status cannot
    be verified.
+6. Recalculate community ratings after each approved gallery-corpus update,
+   preserve the previous calculation artifact, and review large tier changes
+   before publishing them.
 
 **Exit condition:** a maintainer can add, update, validate, and remove a record
 without modifying UI code.
@@ -193,6 +238,36 @@ without modifying UI code.
 **Exit condition:** a scheduled report identifies stale records, every changed
 record is reviewable from its sources, and the previous dataset can be restored
 without a UI deployment.
+
+## 9.1 Map and API operations
+
+1. Register the deployed web origin and development origin in the Naver Maps
+   application, and enable Web Dynamic Map, Geocoding, and Directions 5 for the
+   same application credentials.
+2. Store `NAVER_MAP_CLIENT_ID`, `NAVER_MAP_CLIENT_SECRET`, `OPENAI_API_KEY`,
+   `OPENAI_MODEL`, and `UPDATE_ADMIN_TOKEN` only in server-side environment
+   configuration. Do not use `VITE_` prefixes for secrets.
+3. Serve `/api/config` with the client ID only. Use `/api/geocode` and
+   `/api/directions/driving` as server-side proxies that attach the Naver secret.
+4. Geocode each candidate's verified physical address, store the returned
+   latitude/longitude with its source, and reject results without a matching
+   address. A branch name is insufficient for geocoding.
+5. Render pins only for candidates with verified coordinates. Use the stored
+   community-rating tier to select the pin color, and expose the tier in text.
+6. Let users select a start, an end, and up to five intermediate restaurants.
+   Call Directions 5 for the automobile route and render its returned geometry
+   as a polyline. Keep walking and transit as Naver Maps handoffs until a
+   supported route-data provider is introduced.
+7. Run the OpenAI update job every 72 hours. It may write only a staged draft
+   containing proposed values, source URLs, and check dates. A validated manual
+   approval is required before changing published restaurant or location data.
+8. Protect the on-demand update endpoint with `UPDATE_ADMIN_TOKEN`, log each
+   run result without logging credentials, and retain the previous staged draft.
+
+**Exit condition:** Naver Maps displays verified pins, automobile multi-stop
+routes render from a successful Directions 5 response, walking/transit handoffs
+open correctly, and the 72-hour updater produces reviewable drafts without
+modifying published data automatically.
 
 ## 10. Failure handling and edge cases
 

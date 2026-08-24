@@ -1,0 +1,44 @@
+{
+  "calculationVersion": "2026-08-22-baseline-v1",
+  "scope": "Ratings reflect manually classified mentions in the reviewed 부산 라멘 마이너 갤러리 posts only. They are not customer ratings, popularity counts, or operating-quality claims.",
+  "rules": {
+    "high": "At least two direct positive mentions in the reviewed corpus and no direct negative mention recorded.",
+    "medium": "At least one direct positive mention, or repeated neutral inclusion with no direct negative mention recorded.",
+    "low": "No qualifying positive evidence, or a direct negative/mixed assessment in the reviewed corpus.",
+    "unrated": "No reviewed sentiment evidence."
+  },
+  "mapPinColors": {
+    "high": "#176b3a",
+    "medium": "#a45a00",
+    "low": "#667085",
+    "unrated": "#98a2b3"
+  },
+  "ratings": [
+    { "name": "가솔린앤로지스", "score": 3, "tier": "medium", "positivePostIds": [4673], "negativePostIds": [], "neutralPostIds": [1572, 2418, 3014, 6129, 8358], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "규스지커리바", "score": 3, "tier": "medium", "positivePostIds": [], "negativePostIds": [], "neutralPostIds": [3014, 6129, 8358], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "나가하마만게츠", "score": 3, "tier": "medium", "positivePostIds": [1257, 8026], "negativePostIds": [4434], "neutralPostIds": [1572, 3588, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "나의피는라멘으로되어있어", "score": 3, "tier": "medium", "positivePostIds": [2418], "negativePostIds": [], "neutralPostIds": [6129, 7847], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "라멘유메", "score": 3, "tier": "medium", "positivePostIds": [], "negativePostIds": [], "neutralPostIds": [6129, 6939, 7847], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "로지라멘스탠드", "score": 3, "tier": "medium", "positivePostIds": [], "negativePostIds": [], "neutralPostIds": [6129, 7847], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "멘야토리모토", "score": 3, "tier": "medium", "positivePostIds": [], "negativePostIds": [], "neutralPostIds": [6129, 7847], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "멘즈키", "score": 2, "tier": "low", "positivePostIds": [], "negativePostIds": [8026], "neutralPostIds": [1635, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "멘초비", "score": 5, "tier": "high", "positivePostIds": [2418, 2943, 2995], "negativePostIds": [], "neutralPostIds": [6129, 7847, 8358], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "복동이네오지상", "score": 2, "tier": "low", "positivePostIds": [], "negativePostIds": [8026], "neutralPostIds": [6129, 7847], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "부타갱스터", "score": 3, "tier": "medium", "positivePostIds": [3560], "negativePostIds": [], "neutralPostIds": [6129, 8358], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "사이쿄우", "score": 3, "tier": "medium", "positivePostIds": [8026], "negativePostIds": [], "neutralPostIds": [1635, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "사카나라멘", "score": 5, "tier": "high", "positivePostIds": [2418, 3567, 3774], "negativePostIds": [], "neutralPostIds": [1572, 3014, 8358], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "숏타임푸드빠", "score": 3, "tier": "medium", "positivePostIds": [], "negativePostIds": [], "neutralPostIds": [1572, 3588, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "아부라클럽", "score": 2, "tier": "low", "positivePostIds": [], "negativePostIds": [8026], "neutralPostIds": [1635, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "와루가키노아소비", "score": 4, "tier": "high", "positivePostIds": [1572, 2418], "negativePostIds": [], "neutralPostIds": [1635, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "중화소바지평", "score": 3, "tier": "medium", "positivePostIds": [], "negativePostIds": [], "neutralPostIds": [1635, 3588, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "카네다", "score": 3, "tier": "medium", "positivePostIds": [2418], "negativePostIds": [], "neutralPostIds": [1572, 3014, 6129, 6939], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "코코노카", "score": 2, "tier": "low", "positivePostIds": [], "negativePostIds": [8026], "neutralPostIds": [1635, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "쿠지라멘", "score": 4, "tier": "high", "positivePostIds": [2418, 8026], "negativePostIds": [], "neutralPostIds": [1572, 1635, 3588], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "쿠지라스토랑", "score": 3, "tier": "medium", "positivePostIds": [2418, 8026], "negativePostIds": [], "neutralPostIds": [6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "키무엔", "score": 3, "tier": "medium", "positivePostIds": [], "negativePostIds": [], "neutralPostIds": [3014, 3588, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "타라코소바", "score": 2, "tier": "low", "positivePostIds": [], "negativePostIds": [8026], "neutralPostIds": [3014, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "테우치멘이토", "score": 5, "tier": "high", "positivePostIds": [1572, 2418], "negativePostIds": [], "neutralPostIds": [1635, 6129, 8358], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "펀치", "score": 3, "tier": "medium", "positivePostIds": [], "negativePostIds": [], "neutralPostIds": [3588, 6129], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" },
+    { "name": "충칭소면관", "score": 2, "tier": "low", "positivePostIds": [], "negativePostIds": [1572], "neutralPostIds": [3014, 8026], "provisional": true, "mapInclusion": true, "geocodingStatus": "pending" }
+  ]
+}
