@@ -1,0 +1,1919 @@
+[
+  {
+    "id": "community-candidate-01",
+    "name": "가솔린앤로지스",
+    "branch": null,
+    "area": "부산진구 서면/전포",
+    "address": "부산진구 서면/전포 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.1550721,
+      "lng": 129.0631264
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 5건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EA%B0%80%EC%86%94%EB%A6%B0%EC%95%A4%EB%A1%9C%EC%A7%80%EC%8A%A4%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        1572,
+        2418,
+        3014,
+        8358,
+        4673
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1572",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1572",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-02",
+    "name": "규스지커리바",
+    "branch": null,
+    "area": "부산진구 서면/전포",
+    "address": "부산진구 서면/전포 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.161415,
+      "lng": 129.055144
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 3건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EA%B7%9C%EC%8A%A4%EC%A7%80%EC%BB%A4%EB%A6%AC%EB%B0%94%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        3014,
+        8358
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 3014",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=3014",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "nagahama-mangetsu-gwangalli",
+    "name": "나가하마만게츠",
+    "branch": "광안리",
+    "area": "수영구 광안리",
+    "address": "부산광역시 수영구 광안해변로295번길 4-5 1층",
+    "verificationStatus": "verified",
+    "locationPrecision": "exact",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.1569713,
+      "lng": 129.1257678
+    },
+    "ramenStyles": [
+      "돈코츠"
+    ],
+    "signatureMenus": [
+      {
+        "name": "나가하마 라멘",
+        "price": 12000,
+        "description": "36시간 돈사골과 비법 소스로 만든 정통 돈코츠 라멘"
+      }
+    ],
+    "features": {
+      "broth": "36시간 돼지뼈 육수",
+      "noodles": null,
+      "tare": "비법 소스",
+      "toppings": null
+    },
+    "enthusiastNote": "부산 라멘 마이너 갤러리의 2026년 라멘 가게 목록에 수영구/남구 권역 매장으로 수록되어 있다.",
+    "cautions": [
+      "주차 불가 안내가 있어 인근 공영주차장 이용이 필요하다."
+    ],
+    "hours": "매일 11:00-20:00",
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-25",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EB%82%98%EA%B0%80%ED%95%98%EB%A7%88%EB%A7%8C%EA%B2%8C%EC%B8%A0%20%EA%B4%91%EC%95%88%EB%A6%AC",
+      "kakao": "https://map.kakao.com/?q=%EB%82%98%EA%B0%80%ED%95%98%EB%A7%88%EB%A7%8C%EA%B2%8C%EC%B8%A0%20%EA%B4%91%EC%95%88%EB%A6%AC"
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        1572,
+        3588,
+        8026,
+        1257,
+        4434
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘가게 리스트",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-05-13",
+        "supports": "수영구/남구 권역의 라멘 전문점 후보 수록"
+      },
+      {
+        "title": "나가하마만게츠 광안리 공식 웹사이트",
+        "url": "https://nagahama-ramen-busan.com/",
+        "publishedOrCheckedAt": "2026-08-22",
+        "supports": "주소, 영업시간, 나가하마 라멘 가격, 36시간 돈코츠 육수, 주차 안내"
+      },
+      {
+        "title": "NAVER Maps Geocoding API",
+        "url": "https://api.ncloud-docs.com/docs/en/application-maps-geocoding",
+        "publishedOrCheckedAt": "2026-08-25",
+        "supports": "도로명 주소의 위도와 경도 변환"
+      }
+    ],
+    "ramenCategories": [
+      "paitan"
+    ]
+  },
+  {
+    "id": "community-candidate-04",
+    "name": "나의피는라멘으로되어있어",
+    "branch": null,
+    "area": "부산진구 서면/전포",
+    "address": "부산광역시 부산진구 동성로 23-2",
+    "verificationStatus": "candidate",
+    "locationPrecision": "exact",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.1525613,
+      "lng": 129.068268
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 2건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EB%82%98%EC%9D%98%ED%94%BC%EB%8A%94%EB%9D%BC%EB%A9%98%EC%9C%BC%EB%A1%9C%EB%90%98%EC%96%B4%EC%9E%88%EC%96%B4%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "차슈밥은 마요네즈가 넉넉하지만 차슈와 다른 재료의 맛도 뚜렷해 전체 균형이 잘 맞는다는 후기가 있다. 최근 수집 후기에서는 라멘 본 메뉴보다 사이드 메뉴 평가가 중심이다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        2418,
+        7847
+      ],
+      "reviewItems": [
+        {
+          "menu": "차슈밥",
+          "summary": "차슈밥은 마요네즈가 넉넉하지만 차슈와 다른 재료의 맛도 뚜렷해 전체 균형이 잘 맞는다는 후기가 있다. 최근 수집 후기에서는 라멘 본 메뉴보다 사이드 메뉴 평가가 중심이다.",
+          "evidencePostIds": [
+            6129,
+            2418,
+            7847
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 2418",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=2418",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "NAVER Maps Geocoding API",
+        "url": "https://api.ncloud-docs.com/docs/en/application-maps-geocoding",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "확인된 도로명 주소의 위도와 경도 변환"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-05",
+    "name": "라멘유메",
+    "branch": null,
+    "area": "부산진구 서면/전포",
+    "address": "부산진구 서면/전포 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.157003,
+      "lng": 129.055261
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 3건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://m.place.naver.com/place/2092271507/home",
+      "kakao": null
+    },
+    "community": {
+      "summary": "쇼유는 간장 맛이 과하게 튀지 않고 균형이 잡혀 있으며, 부드럽게 익힌 면과 멘마·아지타마고 조합이 좋다는 평가다. 다시소바는 레몬 제스트 향이 면을 먹을 때 산뜻하게 느껴진다는 후기가 있다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        6939,
+        7847
+      ],
+      "reviewItems": [
+        {
+          "menu": "쇼유",
+          "summary": "간장 맛이 과하게 튀지 않고 균형이 잡혀 있으며, 부드럽게 익힌 면과 멘마, 아지타마고 조합이 좋다는 평가다.",
+          "evidencePostIds": [
+            6129,
+            6939,
+            7847
+          ]
+        },
+        {
+          "menu": "다시소바",
+          "summary": "면을 먹을 때 레몬 제스트 향이 산뜻하게 느껴진다는 후기가 있다.",
+          "evidencePostIds": [
+            6129,
+            6939,
+            7847
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6939",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6939",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "chintan"
+    ]
+  },
+  {
+    "id": "community-candidate-06",
+    "name": "로지라멘스탠드",
+    "branch": null,
+    "area": "중구 남포",
+    "address": "부산광역시 중구 광복중앙로34번길 12",
+    "verificationStatus": "candidate",
+    "locationPrecision": "exact",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.1021566,
+      "lng": 129.0313936
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 2건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EB%A1%9C%EC%A7%80%EB%9D%BC%EB%A9%98%EC%8A%A4%ED%83%A0%EB%93%9C%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        7847
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 7847",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=7847",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "NAVER Maps Geocoding API",
+        "url": "https://api.ncloud-docs.com/docs/en/application-maps-geocoding",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "확인된 도로명 주소의 위도와 경도 변환"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-07",
+    "name": "멘야토리모토",
+    "branch": null,
+    "area": "연제구",
+    "address": "부산광역시 연제구 중앙대로1043번길 34 시청역 SK VIEW",
+    "verificationStatus": "candidate",
+    "locationPrecision": "exact",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.1819106,
+      "lng": 129.0764668
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 2건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EB%A9%98%EC%95%BC%ED%86%A0%EB%A6%AC%EB%AA%A8%ED%86%A0%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "후기에서는 부드러운 차슈와 부담 없이 넘어가는 면이 장점으로 언급됐다. 시청권의 다른 닭 육수 라멘과 비교해도 맛의 인상이 좋았다는 평가가 있으나, 수집 본문이 짧아 세부 스프 평가는 제한적이다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        7847
+      ],
+      "reviewItems": [
+        {
+          "menu": "닭 육수 라멘",
+          "summary": "후기에서는 부드러운 차슈와 부담 없이 넘어가는 면이 장점으로 언급됐다. 시청권의 다른 닭 육수 라멘과 비교해도 맛의 인상이 좋았다는 평가가 있으나, 수집 본문이 짧아 세부 스프 평가는 제한적이다.",
+          "evidencePostIds": [
+            6129,
+            7847
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 7847",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=7847",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "NAVER Maps Geocoding API",
+        "url": "https://api.ncloud-docs.com/docs/en/application-maps-geocoding",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "확인된 도로명 주소의 위도와 경도 변환"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-08",
+    "name": "멘즈키",
+    "branch": null,
+    "area": "부산진구 서면/전포",
+    "address": "부산광역시 부산진구 동성로49번길 34",
+    "verificationStatus": "candidate",
+    "locationPrecision": "exact",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.1550489,
+      "lng": 129.0664975
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 부정 또는 아쉬움 평가가 1건 확인됐으며, 중립 언급은 2건이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EB%A9%98%EC%A6%88%ED%82%A4%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        1635,
+        8026
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1635",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1635",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "NAVER Maps Geocoding API",
+        "url": "https://api.ncloud-docs.com/docs/en/application-maps-geocoding",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "확인된 도로명 주소의 위도와 경도 변환"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-09",
+    "name": "멘초비",
+    "branch": null,
+    "area": "동래구",
+    "address": "부산광역시 동래구 동래시장길 14 동래시장",
+    "verificationStatus": "candidate",
+    "locationPrecision": "exact",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.2038136,
+      "lng": 129.0859365
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 긍정 평가가 3건 확인됐고 부정 평가는 확인되지 않았다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EB%A9%98%EC%B4%88%EB%B9%84%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        2418,
+        7847,
+        8358,
+        2943,
+        2995
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 2418",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=2418",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "NAVER Maps Geocoding API",
+        "url": "https://api.ncloud-docs.com/docs/en/application-maps-geocoding",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "확인된 도로명 주소의 위도와 경도 변환"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-10",
+    "name": "복동이네오지상",
+    "branch": null,
+    "area": "부산진구 서면/전포",
+    "address": "부산진구 서면/전포 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.159799,
+      "lng": 129.054116
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 부정 또는 아쉬움 평가가 1건 확인됐으며, 중립 언급은 2건이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EB%B3%B5%EB%8F%99%EC%9D%B4%EB%84%A4%EC%98%A4%EC%A7%80%EC%83%81%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "고기 향은 취향에 맞지 않을 수 있지만 국물 맛 자체는 매우 좋았다는 짧은 후기가 있다. 구체적인 면과 토핑 평가는 아직 확인되지 않았다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        7847,
+        8026
+      ],
+      "reviewItems": [
+        {
+          "menu": "라멘",
+          "summary": "고기 향은 취향에 맞지 않을 수 있지만 국물 맛 자체는 매우 좋았다는 짧은 후기가 있다. 구체적인 면과 토핑 평가는 아직 확인되지 않았다.",
+          "evidencePostIds": [
+            6129,
+            7847,
+            8026
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 7847",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=7847",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-11",
+    "name": "부타갱스터",
+    "branch": null,
+    "area": "부산진구 서면/전포",
+    "address": "부산진구 서면/전포 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.15136,
+      "lng": 129.062167
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 2건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EB%B6%80%ED%83%80%EA%B0%B1%EC%8A%A4%ED%84%B0%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "스트롱부타는 진한 돼지 육수와 굵은 중면 조합이며, 두툼한 삼겹 차슈의 씹는 맛이 강점으로 언급됐다. 감자라멘도 농도가 짙고 묵직한 맛이라는 평가가 있다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        3560,
+        8358
+      ],
+      "reviewItems": [
+        {
+          "menu": "스트롱부타",
+          "summary": "진한 돼지 육수와 굵은 중면 조합이며, 두툼한 삼겹 차슈의 씹는 맛이 강점으로 언급됐다.",
+          "evidencePostIds": [
+            6129,
+            3560,
+            8358
+          ]
+        },
+        {
+          "menu": "감자라멘",
+          "summary": "국물 농도가 짙고 묵직하며 진한 맛이 인상적이라는 평가가 있다.",
+          "evidencePostIds": [
+            6129,
+            3560,
+            8358
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 3560",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=3560",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "jiro",
+      "paitan"
+    ]
+  },
+  {
+    "id": "community-candidate-12",
+    "name": "사이쿄우",
+    "branch": null,
+    "area": "부산진구 서면/전포",
+    "address": "부산진구 서면/전포 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.16581,
+      "lng": 129.061744
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 2건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%82%AC%EC%9D%B4%EC%BF%84%EC%9A%B0%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "농후 츠케멘은 면과 스프를 따로 내 맛의 강도를 조절하기 좋고, 면과 삼겹 차슈가 좋은 평가를 받았다. 니쿠파이탄은 볶은 야채·마늘·고추가 올라가지만 스프의 농도와 간에서 아쉬움을 표한 후기도 있어 메뉴별 편차가 보인다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        1635,
+        8026
+      ],
+      "reviewItems": [
+        {
+          "menu": "농후 츠케멘",
+          "summary": "면과 스프가 따로 나와 맛의 강도를 조절하기 좋고, 면과 삼겹 차슈가 좋은 평가를 받았다.",
+          "evidencePostIds": [
+            6129,
+            1635,
+            8026
+          ]
+        },
+        {
+          "menu": "니쿠파이탄",
+          "summary": "볶은 야채와 마늘, 고추가 올라가지만 스프의 농도와 간이 아쉬웠다는 후기가 있다.",
+          "evidencePostIds": [
+            6129,
+            1635,
+            8026
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1635",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1635",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "paitan",
+      "tsukemen"
+    ]
+  },
+  {
+    "id": "community-candidate-13",
+    "name": "사카나라멘",
+    "branch": null,
+    "area": "수영구/남구",
+    "address": "부산광역시 수영구 수영로610번길 7",
+    "verificationStatus": "candidate",
+    "locationPrecision": "exact",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.1602727,
+      "lng": 129.1140851
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 긍정 평가가 3건 확인됐고 부정 평가는 확인되지 않았다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%82%AC%EC%B9%B4%EB%82%98%EB%9D%BC%EB%A9%98%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "교카이 쇼유 파이탄은 생선과 게의 감칠맛이 층층이 느껴지는 진한 스프로 평가됐다. 농도 때문에 약간 텁텁할 수 있지만 면과의 조화가 좋고, 진한 멸치·도미 메뉴도 해산물 풍미가 선명하다는 후기가 이어졌다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        1572,
+        2418,
+        3014,
+        8358,
+        3567,
+        3774
+      ],
+      "reviewItems": [
+        {
+          "menu": "교카이 쇼유 파이탄",
+          "summary": "생선과 게의 감칠맛이 층층이 느껴지는 진한 스프로 평가됐다. 약간 텁텁할 수 있지만 면과의 조화가 좋다는 후기가 있다.",
+          "evidencePostIds": [
+            1572,
+            2418,
+            3014,
+            8358,
+            3567,
+            3774
+          ]
+        },
+        {
+          "menu": "진한 멸치/도미",
+          "summary": "멸치와 도미를 사용한 메뉴는 해산물 풍미가 선명하게 드러난다는 평가가 있다.",
+          "evidencePostIds": [
+            1572,
+            2418,
+            3014,
+            8358,
+            3567,
+            3774
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1572",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1572",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 2418",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=2418",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "NAVER Maps Geocoding API",
+        "url": "https://api.ncloud-docs.com/docs/en/application-maps-geocoding",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "확인된 도로명 주소의 위도와 경도 변환"
+      }
+    ],
+    "ramenCategories": [
+      "chintan",
+      "paitan"
+    ]
+  },
+  {
+    "id": "community-candidate-14",
+    "name": "숏타임푸드빠",
+    "branch": null,
+    "area": "수영구/남구",
+    "address": "수영구/남구 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.144519,
+      "lng": 129.118472
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 3건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%88%8F%ED%83%80%EC%9E%84%ED%91%B8%EB%93%9C%EB%B9%A0%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        1572,
+        3588
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1572",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1572",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-15",
+    "name": "아부라클럽",
+    "branch": null,
+    "area": "수영구/남구",
+    "address": "수영구/남구 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.151427,
+      "lng": 129.109074
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 부정 또는 아쉬움 평가가 1건 확인됐으며, 중립 언급은 2건이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%95%84%EB%B6%80%EB%9D%BC%ED%81%B4%EB%9F%BD%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "창케 쇼유는 기본 염도가 높은 편으로 평가됐고, 차슈는 추가하지 않아도 양감이 있다는 후기가 있다. 진한 간을 선호하는지에 따라 만족도가 갈릴 수 있다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        1635,
+        8026
+      ],
+      "reviewItems": [
+        {
+          "menu": "창케 쇼유",
+          "summary": "창케 쇼유는 기본 염도가 높은 편으로 평가됐고, 차슈는 추가하지 않아도 양감이 있다는 후기가 있다. 진한 간을 선호하는지에 따라 만족도가 갈릴 수 있다.",
+          "evidencePostIds": [
+            6129,
+            1635,
+            8026
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1635",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1635",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "chintan"
+    ]
+  },
+  {
+    "id": "community-candidate-16",
+    "name": "와루가키노아소비",
+    "branch": null,
+    "area": "수영구/남구",
+    "address": "수영구/남구 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.137271,
+      "lng": 129.112007
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 긍정 평가가 2건 확인됐고 부정 평가는 확인되지 않았다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%99%80%EB%A3%A8%EA%B0%80%ED%82%A4%EB%85%B8%EC%95%84%EC%86%8C%EB%B9%84%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "쇼가 쇼유는 좋은 온도감의 스프에 생강 향이 끝에서 가볍게 받쳐 주며 차슈와 멘마 평가도 좋다. 부드럽게 익힌 면은 취향을 탈 수 있고, 참나물 블랙은 향과 간의 균형이 아쉬웠다는 후기가 있다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        1572,
+        1635,
+        2418
+      ],
+      "reviewItems": [
+        {
+          "menu": "쇼가 쇼유",
+          "summary": "좋은 온도감의 스프에 생강 향이 끝에서 가볍게 받쳐 주며 차슈와 멘마 평가도 좋다. 부드럽게 익힌 면은 취향을 탈 수 있다.",
+          "evidencePostIds": [
+            6129,
+            1572,
+            1635,
+            2418
+          ]
+        },
+        {
+          "menu": "참나물 블랙",
+          "summary": "참나물 향이 뚜렷하지 않고 염도와 전체적인 간의 균형이 아쉬웠다는 후기가 있다.",
+          "evidencePostIds": [
+            6129,
+            1572,
+            1635,
+            2418
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1572",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1572",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "chintan"
+    ]
+  },
+  {
+    "id": "community-candidate-17",
+    "name": "중화소바지평",
+    "branch": null,
+    "area": "사상구",
+    "address": "사상구 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.155178,
+      "lng": 128.994259
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 3건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%A4%91%ED%99%94%EC%86%8C%EB%B0%94%EC%A7%80%ED%8F%89%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        1635,
+        3588
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1635",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1635",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-18",
+    "name": "카네다",
+    "branch": null,
+    "area": "부산진구 서면/전포",
+    "address": "부산진구 서면/전포 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.157928,
+      "lng": 129.053705
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 4건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%B9%B4%EB%84%A4%EB%8B%A4%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "카니 미소 츠케멘은 게와 미소의 진한 풍미를 앞세운 메뉴로 언급됐다. 돈코츠 쇼유 계열은 매장에 들어설 때부터 육향이 선명하게 느껴질 만큼 향과 농도가 강한 편이라는 후기가 있다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        1572,
+        2418,
+        3014,
+        6939
+      ],
+      "reviewItems": [
+        {
+          "menu": "카니 미소 츠케멘",
+          "summary": "게와 미소의 진한 풍미를 앞세운 메뉴로 평가됐다.",
+          "evidencePostIds": [
+            6129,
+            1572,
+            2418,
+            3014,
+            6939
+          ]
+        },
+        {
+          "menu": "돈코츠 쇼유",
+          "summary": "매장에 들어설 때부터 육향이 선명하게 느껴질 만큼 향과 농도가 강한 편이라는 후기가 있다.",
+          "evidencePostIds": [
+            6129,
+            1572,
+            2418,
+            3014,
+            6939
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1572",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1572",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "chintan",
+      "paitan",
+      "tsukemen"
+    ]
+  },
+  {
+    "id": "community-candidate-19",
+    "name": "코코노카",
+    "branch": null,
+    "area": "수영구/남구",
+    "address": "수영구/남구 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.140762,
+      "lng": 129.118062
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 부정 또는 아쉬움 평가가 1건 확인됐으며, 중립 언급은 2건이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%BD%94%EC%BD%94%EB%85%B8%EC%B9%B4%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        1635,
+        8026
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1635",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1635",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-20",
+    "name": "쿠지라멘",
+    "branch": null,
+    "area": "해운대구",
+    "address": "해운대구 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.171591,
+      "lng": 129.163108
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 긍정 평가가 2건 확인됐고 부정 평가는 확인되지 않았다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%BF%A0%EC%A7%80%EB%9D%BC%EB%A9%98%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "카모 츠케멘은 적당한 점도와 염도에 오리 풍미와 불향이 더해진 맛으로 평가됐으며 양도 보기보다 넉넉하다는 후기가 있다. 니보시 아부라는 매콤달큰한 맛이 반복 방문을 부르는 요소로 언급됐다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        1572,
+        1635,
+        2418,
+        3588,
+        8026
+      ],
+      "reviewItems": [
+        {
+          "menu": "카모 츠케멘",
+          "summary": "적당한 점도와 염도에 오리 풍미와 불향이 더해졌으며, 양도 보기보다 넉넉하다는 평가가 있다.",
+          "evidencePostIds": [
+            1572,
+            1635,
+            2418,
+            3588,
+            8026
+          ]
+        },
+        {
+          "menu": "니보시 아부라",
+          "summary": "매콤달큰한 맛이 특징이며 반복해서 찾게 되는 중독성이 있다는 후기가 있다.",
+          "evidencePostIds": [
+            1572,
+            1635,
+            2418,
+            3588,
+            8026
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1572",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1572",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1635",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1635",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "tsukemen",
+      "abura"
+    ]
+  },
+  {
+    "id": "community-candidate-21",
+    "name": "쿠지라스토랑",
+    "branch": null,
+    "area": "수영구/남구",
+    "address": "수영구/남구 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.142629,
+      "lng": 129.110537
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 긍정 평가가 2건 확인됐고 부정 평가는 확인되지 않았다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%BF%A0%EC%A7%80%EB%9D%BC%EC%8A%A4%ED%86%A0%EB%9E%91%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        6129,
+        2418,
+        8026
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 2418",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=2418",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-22",
+    "name": "키무엔",
+    "branch": null,
+    "area": "금정구 부산대",
+    "address": "금정구 부산대 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.230733,
+      "lng": 129.089851
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 3건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%ED%82%A4%EB%AC%B4%EC%97%94%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "토리파이탄은 강한 감칠맛과 염도가 처음부터 끝까지 이어지고, 가는 면에 국물이 잘 배면서도 기름지게 물리지 않는다는 평가다. 남은 국물에 밥을 말아도 간과 풍미가 유지된다는 후기가 있다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        3014,
+        3588,
+        6129
+      ],
+      "reviewItems": [
+        {
+          "menu": "토리파이탄",
+          "summary": "토리파이탄은 강한 감칠맛과 염도가 처음부터 끝까지 이어지고, 가는 면에 국물이 잘 배면서도 기름지게 물리지 않는다는 평가다. 남은 국물에 밥을 말아도 간과 풍미가 유지된다는 후기가 있다.",
+          "evidencePostIds": [
+            3014,
+            3588,
+            6129
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 3014",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=3014",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 3588",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=3588",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "paitan"
+    ]
+  },
+  {
+    "id": "community-candidate-23",
+    "name": "타라코소바",
+    "branch": null,
+    "area": "해운대구 / 동래구",
+    "address": "해운대구 / 동래구 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.208798,
+      "lng": 129.078054
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 부정 또는 아쉬움 평가가 1건 확인됐으며, 중립 언급은 2건이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%ED%83%80%EB%9D%BC%EC%BD%94%EC%86%8C%EB%B0%94%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        3014,
+        6129,
+        8026
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 3014",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=3014",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-24",
+    "name": "테우치멘이토",
+    "branch": null,
+    "area": "부산진구 서면/전포",
+    "address": "부산진구 서면/전포 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.149407,
+      "lng": 129.061065
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 긍정 평가가 2건 확인됐고 부정 평가는 확인되지 않았다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%ED%85%8C%EC%9A%B0%EC%B9%98%EB%A9%98%EC%9D%B4%ED%86%A0%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        1572,
+        1635,
+        2418,
+        6129,
+        8358
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1572",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1572",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1635",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1635",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-25",
+    "name": "펀치",
+    "branch": null,
+    "area": "금정구 부산대",
+    "address": "금정구 부산대 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.23347,
+      "lng": 129.086389
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "직접적인 호불호 평가보다 목록·방문 후보 등 중립 언급 2건이 중심이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%ED%8E%80%EC%B9%98%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 후기에서는 차슈에서 보관취가 느껴졌고 이전 방문보다 맛이 아쉬웠다는 평가가 확인됐다. 단일 후기이므로 현재 품질을 단정하기보다 방문 시 참고할 내용이다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        3588,
+        6129
+      ],
+      "reviewItems": [
+        {
+          "menu": "라멘 · 차슈",
+          "summary": "최근 후기에서는 차슈에서 보관취가 느껴졌고 이전 방문보다 맛이 아쉬웠다는 평가가 확인됐다. 단일 후기이므로 현재 품질을 단정하기보다 방문 시 참고할 내용이다.",
+          "evidencePostIds": [
+            3588,
+            6129
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 3588",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=3588",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 6129",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=6129",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  },
+  {
+    "id": "community-candidate-26",
+    "name": "충칭소면관",
+    "branch": null,
+    "area": "부산",
+    "address": "부산 (상세 주소 확인 중)",
+    "verificationStatus": "candidate",
+    "locationPrecision": "area",
+    "nearestStation": null,
+    "coordinates": {
+      "lat": 35.177929,
+      "lng": 129.07036
+    },
+    "ramenStyles": [],
+    "signatureMenus": [],
+    "features": {
+      "broth": null,
+      "noodles": null,
+      "tare": null,
+      "toppings": null
+    },
+    "enthusiastNote": "검토 게시물에서 부정 또는 아쉬움 평가가 1건 확인됐으며, 중립 언급은 2건이다.",
+    "cautions": [
+      "후보 매장으로 상세 주소와 영업 상태를 확인 중이다."
+    ],
+    "hours": null,
+    "closedDays": null,
+    "breakTime": null,
+    "waitingInfo": null,
+    "lastVerified": "2026-08-24",
+    "mapLinks": {
+      "naver": "https://map.naver.com/p/search/%EC%B6%A9%EC%B9%AD%EC%86%8C%EB%A9%B4%EA%B4%80%20%EB%B6%80%EC%82%B0",
+      "kakao": null
+    },
+    "community": {
+      "summary": "최근 수집된 후기 탭에서 메뉴와 맛을 구체적으로 평가한 본문을 아직 확인하지 못했다.",
+      "generatedBy": "rating-fallback",
+      "updatedAt": "2026-08-24",
+      "evidencePostIds": [
+        1572,
+        3014,
+        8026
+      ],
+      "reviewItems": []
+    },
+    "sources": [
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 1572",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=1572",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      },
+      {
+        "title": "부산 라멘 마이너 갤러리 게시물 3014",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=busanramen&no=3014",
+        "publishedOrCheckedAt": "2026-08-24",
+        "supports": "가게 언급 및 커뮤니티 평가 근거"
+      }
+    ],
+    "ramenCategories": [
+      "other"
+    ]
+  }
+]
