@@ -8,6 +8,9 @@ function withTimeout<T>(operation: Promise<T>, message: string, timeoutMs = 8000
 }
 
 export async function getMapClientId(): Promise<string> {
+  const staticClientId = import.meta.env.VITE_NAVER_MAP_CLIENT_ID
+  if (staticClientId) return staticClientId
+
   const response = await fetch('/api/config')
 
   if (!response.ok) {

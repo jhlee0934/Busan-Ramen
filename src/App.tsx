@@ -2,8 +2,10 @@ import { NaverMap } from './features/maps/NaverMap'
 import { loadRestaurants } from './features/restaurants/data'
 
 function App() {
-  if (window.location.pathname !== '/') {
-    return <main className="not-found"><p className="eyebrow">404</p><h1>페이지를 찾을 수 없습니다.</h1><a href="/">부산 라멘 지도로 돌아가기</a></main>
+  const basePath = import.meta.env.BASE_URL
+  const currentPath = window.location.pathname.endsWith('/') ? window.location.pathname : `${window.location.pathname}/`
+  if (currentPath !== basePath) {
+    return <main className="not-found"><p className="eyebrow">404</p><h1>페이지를 찾을 수 없습니다.</h1><a href={basePath}>부산 라멘 지도로 돌아가기</a></main>
   }
   const restaurantData = loadRestaurants()
 
