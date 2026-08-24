@@ -17,7 +17,7 @@
     "data:categorize": "node server/categorize-restaurants.mjs",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "test": "vitest run --passWithNoTests --exclude tests/e2e/**",
+    "test": "vitest run --passWithNoTests --exclude \"tests/e2e/**\"",
     "test:e2e": "npm run build && playwright test",
     "verify:release": "npm run lint && npm test && npm run build && npm run test:e2e",
     "lint": "eslint ."
