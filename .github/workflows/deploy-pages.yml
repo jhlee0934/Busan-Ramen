@@ -25,12 +25,14 @@ jobs:
           cache: npm
       - name: Verify map client ID
         env:
-          VITE_NAVER_MAP_CLIENT_ID: ${{ secrets.NAVER_MAP_CLIENT_ID }}
+          VITE_NAVER_MAP_CLIENT_ID: ${{ secrets.NAVER_MAP_CLIENT_ID || vars.NAVER_MAP_CLIENT_ID }}
         run: test -n "$VITE_NAVER_MAP_CLIENT_ID"
       - run: npm ci
       - run: npm run build
         env:
-          VITE_NAVER_MAP_CLIENT_ID: ${{ secrets.NAVER_MAP_CLIENT_ID }}
+          VITE_NAVER_MAP_CLIENT_ID: ${{ secrets.NAVER_MAP_CLIENT_ID || vars.NAVER_MAP_CLIENT_ID }}
+      - name: Add Pages 404 fallback
+        run: cp dist/index.html dist/404.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:

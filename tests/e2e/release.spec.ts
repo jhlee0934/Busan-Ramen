@@ -1,9 +1,11 @@
 import { expect, test } from '@playwright/test'
 
+const appBasePath = process.env.GITHUB_ACTIONS === 'true' ? '/Busan-Ramen/' : '/'
+
 test.beforeEach(async ({ page }) => {
   await page.route('**/api/config', (route) => route.fulfill({ status: 200, contentType: 'application/json', body: JSON.stringify({ naverMapClientId: 'e2e-placeholder' }) }))
   await page.route('https://oapi.map.naver.com/**', (route) => route.abort())
-  await page.goto('/')
+  await page.goto(appBasePath)
 })
 
 test('keeps all restaurant content usable when the map SDK fails', async ({ page }) => {
@@ -19,7 +21,7 @@ test('has no page-level horizontal overflow', async ({ page }) => {
 })
 
 test('renders a usable 404 page for an unknown address', async ({ page }) => {
-  const response = await page.goto('/missing-page')
+  const response = await page.goto(`${appBasePath}missing-page`)
   expect(response?.status()).toBe(200)
   await expect(page.getByRole('heading', { name: '페이지를 찾을 수 없습니다.' })).toBeVisible()
 })
